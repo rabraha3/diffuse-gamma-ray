@@ -1,0 +1,1800 @@
+
+
+Cloud 5:0
+Pixel coordinates (219, 565) = (l,b):(158.1, -33.5)
+Area = 817
+	WCO peak(K km s-1) = 29.895778656
+	WCO minimum (K km s-1) = 1.43251538277
+	WCO mean (K km s-1) = 5.5133234814
+	WCO standard deviation (K km s-1) = 5.67954699488
+	WCO sum (K km s-1) = 4504.3852843
+
+
+Cloud 6:1
+Pixel coordinates (1758, 1255) = (l,b):(4.2, 35.5)
+Area = 87
+	WCO peak(K km s-1) = 28.0778541565
+	WCO minimum (K km s-1) = 1.50457894802
+	WCO mean (K km s-1) = 8.5747886348
+	WCO standard deviation (K km s-1) = 7.12842009799
+	WCO sum (K km s-1) = 746.006611228
+
+
+Cloud 8:2
+Pixel coordinates (1744, 1265) = (l,b):(5.6, 36.5)
+Area = 315
+	WCO peak(K km s-1) = 25.816160202
+	WCO minimum (K km s-1) = 1.47582757473
+	WCO mean (K km s-1) = 7.97619094054
+	WCO standard deviation (K km s-1) = 6.16060785037
+	WCO sum (K km s-1) = 2512.50014627
+
+
+Cloud 11:3
+Pixel coordinates (2260, 609) = (l,b):(-46.0, -29.1)
+Area = 1277
+	WCO peak(K km s-1) = 20.2494468689
+	WCO minimum (K km s-1) = 1.07897913456
+	WCO mean (K km s-1) = 5.11622570844
+	WCO standard deviation (K km s-1) = 3.85653422183
+	WCO sum (K km s-1) = 6533.42022967
+
+
+Cloud 14:4
+Pixel coordinates (152, 643) = (l,b):(164.8, -25.7)
+Area = 812
+	WCO peak(K km s-1) = 18.7560920715
+	WCO minimum (K km s-1) = 1.49193441868
+	WCO mean (K km s-1) = 4.06853882697
+	WCO standard deviation (K km s-1) = 2.40880658143
+	WCO sum (K km s-1) = 3303.6535275
+
+
+Cloud 17:5
+Pixel coordinates (884, 522) = (l,b):(91.6, -37.8)
+Area = 2251
+	WCO peak(K km s-1) = 16.2501506805
+	WCO minimum (K km s-1) = 1.32440316677
+	WCO mean (K km s-1) = 3.81349747327
+	WCO standard deviation (K km s-1) = 2.37961046731
+	WCO sum (K km s-1) = 8584.18281233
+
+
+Cloud 21:6
+Pixel coordinates (3333, 637) = (l,b):(-153.3, -26.3)
+Area = 68
+	WCO peak(K km s-1) = 15.2037267685
+	WCO minimum (K km s-1) = 1.55876553059
+	WCO mean (K km s-1) = 5.27900864797
+	WCO standard deviation (K km s-1) = 3.46917517638
+	WCO sum (K km s-1) = 358.972588062
+
+
+Cloud 23:7
+Pixel coordinates (486, 439) = (l,b):(131.4, -46.1)
+Area = 116
+	WCO peak(K km s-1) = 14.575006485
+	WCO minimum (K km s-1) = 1.62224853039
+	WCO mean (K km s-1) = 4.38286569201
+	WCO standard deviation (K km s-1) = 3.17365446925
+	WCO sum (K km s-1) = 508.412420273
+
+
+Cloud 27:8
+Pixel coordinates (287, 516) = (l,b):(151.3, -38.4)
+Area = 172
+	WCO peak(K km s-1) = 13.6202363968
+	WCO minimum (K km s-1) = 1.88583743572
+	WCO mean (K km s-1) = 4.49862005128
+	WCO standard deviation (K km s-1) = 2.61587649211
+	WCO sum (K km s-1) = 773.762648821
+
+
+Cloud 30:9
+Pixel coordinates (3290, 534) = (l,b):(-149.0, -36.6)
+Area = 235
+	WCO peak(K km s-1) = 12.6361055374
+	WCO minimum (K km s-1) = 1.37707769871
+	WCO mean (K km s-1) = 4.23887377191
+	WCO standard deviation (K km s-1) = 2.70520464881
+	WCO sum (K km s-1) = 996.135336399
+
+
+Cloud 31:10
+Pixel coordinates (2591, 587) = (l,b):(-79.1, -31.3)
+Area = 210
+	WCO peak(K km s-1) = 11.5666465759
+	WCO minimum (K km s-1) = 0.539917171001
+	WCO mean (K km s-1) = 1.63114850266
+	WCO standard deviation (K km s-1) = 1.43551676765
+	WCO sum (K km s-1) = 342.541185558
+
+
+Cloud 36:11
+Pixel coordinates (342, 507) = (l,b):(145.8, -39.3)
+Area = 117
+	WCO peak(K km s-1) = 9.63165378571
+	WCO minimum (K km s-1) = 1.74610376358
+	WCO mean (K km s-1) = 4.31154545861
+	WCO standard deviation (K km s-1) = 2.19922984019
+	WCO sum (K km s-1) = 504.450818658
+
+
+Cloud 38:12
+Pixel coordinates (3579, 591) = (l,b):(-177.9, -30.9)
+Area = 126
+	WCO peak(K km s-1) = 9.39926815033
+	WCO minimum (K km s-1) = 1.46941816807
+	WCO mean (K km s-1) = 3.71069879097
+	WCO standard deviation (K km s-1) = 2.02682216036
+	WCO sum (K km s-1) = 467.548047662
+
+
+Cloud 39:13
+Pixel coordinates (126, 637) = (l,b):(167.4, -26.3)
+Area = 132
+	WCO peak(K km s-1) = 9.09529018402
+	WCO minimum (K km s-1) = 1.53797852993
+	WCO mean (K km s-1) = 4.06325765631
+	WCO standard deviation (K km s-1) = 1.86947465912
+	WCO sum (K km s-1) = 536.350010633
+
+
+Cloud 40:14
+Pixel coordinates (453, 450) = (l,b):(134.7, -45.0)
+Area = 286
+	WCO peak(K km s-1) = 9.01069068909
+	WCO minimum (K km s-1) = 1.64618182182
+	WCO mean (K km s-1) = 3.70611559678
+	WCO standard deviation (K km s-1) = 1.7748743782
+	WCO sum (K km s-1) = 1059.94906068
+
+
+Cloud 41:15
+Pixel coordinates (3536, 578) = (l,b):(-173.6, -32.2)
+Area = 369
+	WCO peak(K km s-1) = 8.76213741302
+	WCO minimum (K km s-1) = 1.52916073799
+	WCO mean (K km s-1) = 3.29072502861
+	WCO standard deviation (K km s-1) = 1.52613250793
+	WCO sum (K km s-1) = 1214.27753556
+
+
+Cloud 42:16
+Pixel coordinates (3505, 535) = (l,b):(-170.5, -36.5)
+Area = 277
+	WCO peak(K km s-1) = 8.75552368164
+	WCO minimum (K km s-1) = 1.41912961006
+	WCO mean (K km s-1) = 3.74812851271
+	WCO standard deviation (K km s-1) = 1.85111778267
+	WCO sum (K km s-1) = 1038.23159802
+
+
+Cloud 44:17
+Pixel coordinates (136, 454) = (l,b):(166.4, -44.6)
+Area = 141
+	WCO peak(K km s-1) = 8.52345275879
+	WCO minimum (K km s-1) = 1.46577382088
+	WCO mean (K km s-1) = 3.14364043111
+	WCO standard deviation (K km s-1) = 1.39903983472
+	WCO sum (K km s-1) = 443.253300786
+
+
+Cloud 47:18
+Pixel coordinates (97, 472) = (l,b):(170.3, -42.8)
+Area = 477
+	WCO peak(K km s-1) = 8.17335033417
+	WCO minimum (K km s-1) = 1.43954610825
+	WCO mean (K km s-1) = 3.1133497641
+	WCO standard deviation (K km s-1) = 1.40679364123
+	WCO sum (K km s-1) = 1485.06783748
+
+
+Cloud 49:19
+Pixel coordinates (265, 1266) = (l,b):(153.5, 36.6)
+Area = 286
+	WCO peak(K km s-1) = 7.87279462814
+	WCO minimum (K km s-1) = 1.27023923397
+	WCO mean (K km s-1) = 3.26170114662
+	WCO standard deviation (K km s-1) = 1.62510998442
+	WCO sum (K km s-1) = 932.846527934
+
+
+Cloud 50:20
+Pixel coordinates (332, 1305) = (l,b):(146.8, 40.5)
+Area = 240
+	WCO peak(K km s-1) = 7.82273054123
+	WCO minimum (K km s-1) = 1.22471880913
+	WCO mean (K km s-1) = 3.00270505349
+	WCO standard deviation (K km s-1) = 1.68602331218
+	WCO sum (K km s-1) = 720.649212837
+
+
+Cloud 51:21
+Pixel coordinates (2314, 575) = (l,b):(-51.4, -32.5)
+Area = 287
+	WCO peak(K km s-1) = 7.70148181915
+	WCO minimum (K km s-1) = 1.05310463905
+	WCO mean (K km s-1) = 2.8875673461
+	WCO standard deviation (K km s-1) = 1.59110176342
+	WCO sum (K km s-1) = 828.731828332
+
+
+Cloud 52:22
+Pixel coordinates (85, 524) = (l,b):(171.5, -37.6)
+Area = 304
+	WCO peak(K km s-1) = 7.66564369202
+	WCO minimum (K km s-1) = 1.48642504215
+	WCO mean (K km s-1) = 3.11287935431
+	WCO standard deviation (K km s-1) = 1.28309244609
+	WCO sum (K km s-1) = 946.31532371
+
+
+Cloud 55:23
+Pixel coordinates (713, 378) = (l,b):(108.7, -52.2)
+Area = 136
+	WCO peak(K km s-1) = 7.41783094406
+	WCO minimum (K km s-1) = 1.47555863857
+	WCO mean (K km s-1) = 3.10716409017
+	WCO standard deviation (K km s-1) = 1.3385162643
+	WCO sum (K km s-1) = 422.574316263
+
+
+Cloud 56:24
+Pixel coordinates (768, 637) = (l,b):(103.2, -26.3)
+Area = 75
+	WCO peak(K km s-1) = 7.29420089722
+	WCO minimum (K km s-1) = 1.39229488373
+	WCO mean (K km s-1) = 3.53026907285
+	WCO standard deviation (K km s-1) = 1.66856626129
+	WCO sum (K km s-1) = 264.770180464
+
+
+Cloud 58:25
+Pixel coordinates (741, 515) = (l,b):(105.9, -38.5)
+Area = 56
+	WCO peak(K km s-1) = 7.15969467163
+	WCO minimum (K km s-1) = 1.47538423538
+	WCO mean (K km s-1) = 3.25363727765
+	WCO standard deviation (K km s-1) = 1.55710299323
+	WCO sum (K km s-1) = 182.203687549
+
+
+Cloud 61:26
+Pixel coordinates (3590, 627) = (l,b):(-179.0, -27.3)
+Area = 136
+	WCO peak(K km s-1) = 7.04312038422
+	WCO minimum (K km s-1) = 1.53448474407
+	WCO mean (K km s-1) = 3.14526107644
+	WCO standard deviation (K km s-1) = 1.35352775214
+	WCO sum (K km s-1) = 427.755506396
+
+
+Cloud 62:27
+Pixel coordinates (344, 403) = (l,b):(145.6, -49.7)
+Area = 239
+	WCO peak(K km s-1) = 7.02227401733
+	WCO minimum (K km s-1) = 1.60221481323
+	WCO mean (K km s-1) = 3.11216669152
+	WCO standard deviation (K km s-1) = 1.19745838141
+	WCO sum (K km s-1) = 743.807839274
+
+
+Cloud 64:28
+Pixel coordinates (1684, 1263) = (l,b):(11.6, 36.3)
+Area = 61
+	WCO peak(K km s-1) = 6.7539525032
+	WCO minimum (K km s-1) = 1.50803744793
+	WCO mean (K km s-1) = 2.76481067157
+	WCO standard deviation (K km s-1) = 1.3639274038
+	WCO sum (K km s-1) = 168.653450966
+
+
+Cloud 65:29
+Pixel coordinates (201, 591) = (l,b):(159.9, -30.9)
+Area = 217
+	WCO peak(K km s-1) = 6.63640069962
+	WCO minimum (K km s-1) = 1.49835777283
+	WCO mean (K km s-1) = 3.3396781216
+	WCO standard deviation (K km s-1) = 1.41212622318
+	WCO sum (K km s-1) = 724.710152388
+
+
+Cloud 67:30
+Pixel coordinates (762, 508) = (l,b):(103.8, -39.2)
+Area = 99
+	WCO peak(K km s-1) = 6.58385801315
+	WCO minimum (K km s-1) = 1.44604897499
+	WCO mean (K km s-1) = 2.63571864186
+	WCO standard deviation (K km s-1) = 1.11053906005
+	WCO sum (K km s-1) = 260.936145544
+
+
+Cloud 70:
+Pixel coordinates (3546, 554) = (l,b):(-174.6, -34.6)
+Area = 147
+	WCO peak(K km s-1) = 6.39654397964
+	WCO minimum (K km s-1) = 1.51438808441
+	WCO mean (K km s-1) = 2.86189885042
+	WCO standard deviation (K km s-1) = 1.26204551066
+	WCO sum (K km s-1) = 420.699131012
+
+
+Cloud 71:
+Pixel coordinates (64, 484) = (l,b):(173.6, -41.6)
+Area = 56
+	WCO peak(K km s-1) = 6.38612556458
+	WCO minimum (K km s-1) = 1.45663368702
+	WCO mean (K km s-1) = 2.887178123
+	WCO standard deviation (K km s-1) = 1.09778200704
+	WCO sum (K km s-1) = 161.681974888
+
+
+Cloud 73:
+Pixel coordinates (527, 201) = (l,b):(127.3, -69.9)
+Area = 254
+	WCO peak(K km s-1) = 6.34507846832
+	WCO minimum (K km s-1) = 1.49661529064
+	WCO mean (K km s-1) = 2.88847882213
+	WCO standard deviation (K km s-1) = 1.149199489
+	WCO sum (K km s-1) = 733.67362082
+
+
+Cloud 74:
+Pixel coordinates (185, 541) = (l,b):(161.5, -35.9)
+Area = 68
+	WCO peak(K km s-1) = 6.26850748062
+	WCO minimum (K km s-1) = 1.47377502918
+	WCO mean (K km s-1) = 2.99340490559
+	WCO standard deviation (K km s-1) = 1.33556349963
+	WCO sum (K km s-1) = 203.55153358
+
+
+Cloud 75:
+Pixel coordinates (5, 643) = (l,b):(179.5, -25.7)
+Area = 155
+	WCO peak(K km s-1) = 6.22125530243
+	WCO minimum (K km s-1) = 1.54093039036
+	WCO mean (K km s-1) = 2.92851164341
+	WCO standard deviation (K km s-1) = 0.995813744064
+	WCO sum (K km s-1) = 453.919304729
+
+
+Cloud 78:
+Pixel coordinates (777, 298) = (l,b):(102.3, -60.2)
+Area = 110
+	WCO peak(K km s-1) = 6.14214706421
+	WCO minimum (K km s-1) = 1.36363911629
+	WCO mean (K km s-1) = 2.5589345401
+	WCO standard deviation (K km s-1) = 1.02527005617
+	WCO sum (K km s-1) = 281.482799411
+
+
+Cloud 79:
+Pixel coordinates (774, 611) = (l,b):(102.6, -28.9)
+Area = 142
+	WCO peak(K km s-1) = 6.13036489487
+	WCO minimum (K km s-1) = 1.32484400272
+	WCO mean (K km s-1) = 2.73866973041
+	WCO standard deviation (K km s-1) = 1.35761303523
+	WCO sum (K km s-1) = 388.891101718
+
+
+Cloud 81:
+Pixel coordinates (880, 596) = (l,b):(92.0, -30.4)
+Area = 116
+	WCO peak(K km s-1) = 6.03601455688
+	WCO minimum (K km s-1) = 1.28665363789
+	WCO mean (K km s-1) = 2.38914272189
+	WCO standard deviation (K km s-1) = 1.03502802343
+	WCO sum (K km s-1) = 277.140555739
+
+
+Cloud 82:
+Pixel coordinates (234, 449) = (l,b):(156.6, -45.1)
+Area = 110
+	WCO peak(K km s-1) = 6.00834512711
+	WCO minimum (K km s-1) = 1.69965910912
+	WCO mean (K km s-1) = 3.15442327153
+	WCO standard deviation (K km s-1) = 0.992366834059
+	WCO sum (K km s-1) = 346.986559868
+
+
+Cloud 83:
+Pixel coordinates (124, 520) = (l,b):(167.6, -38.0)
+Area = 81
+	WCO peak(K km s-1) = 5.99076080322
+	WCO minimum (K km s-1) = 1.51647138596
+	WCO mean (K km s-1) = 3.02513560248
+	WCO standard deviation (K km s-1) = 1.1859939736
+	WCO sum (K km s-1) = 245.035983801
+
+
+Cloud 86:
+Pixel coordinates (370, 1283) = (l,b):(143.0, 38.3)
+Area = 178
+	WCO peak(K km s-1) = 5.90712499619
+	WCO minimum (K km s-1) = 1.17827820778
+	WCO mean (K km s-1) = 2.41750772682
+	WCO standard deviation (K km s-1) = 1.12018260613
+	WCO sum (K km s-1) = 430.316375375
+
+
+Cloud 89:
+Pixel coordinates (861, 580) = (l,b):(93.9, -32.0)
+Area = 287
+	WCO peak(K km s-1) = 5.85641098022
+	WCO minimum (K km s-1) = 1.2945394516
+	WCO mean (K km s-1) = 2.58013737534
+	WCO standard deviation (K km s-1) = 0.986462642092
+	WCO sum (K km s-1) = 740.499426723
+
+
+Cloud 90:
+Pixel coordinates (637, 452) = (l,b):(116.3, -44.8)
+Area = 70
+	WCO peak(K km s-1) = 5.85457038879
+	WCO minimum (K km s-1) = 1.55743718147
+	WCO mean (K km s-1) = 2.7384053077
+	WCO standard deviation (K km s-1) = 1.04029506692
+	WCO sum (K km s-1) = 191.688371539
+
+
+Cloud 91:
+Pixel coordinates (27, 511) = (l,b):(177.3, -38.9)
+Area = 68
+	WCO peak(K km s-1) = 5.84378671646
+	WCO minimum (K km s-1) = 1.52913498878
+	WCO mean (K km s-1) = 2.82572426165
+	WCO standard deviation (K km s-1) = 1.09333374376
+	WCO sum (K km s-1) = 192.149249792
+
+
+Cloud 92:
+Pixel coordinates (196, 547) = (l,b):(160.4, -35.3)
+Area = 52
+	WCO peak(K km s-1) = 5.82936048508
+	WCO minimum (K km s-1) = 1.44782948494
+	WCO mean (K km s-1) = 2.78558290005
+	WCO standard deviation (K km s-1) = 1.1919076386
+	WCO sum (K km s-1) = 144.850310802
+
+
+Cloud 95:
+Pixel coordinates (316, 413) = (l,b):(148.4, -48.7)
+Area = 47
+	WCO peak(K km s-1) = 5.67452478409
+	WCO minimum (K km s-1) = 1.70713114738
+	WCO mean (K km s-1) = 2.92423733245
+	WCO standard deviation (K km s-1) = 1.04166219601
+	WCO sum (K km s-1) = 137.439154625
+
+
+Cloud 97:
+Pixel coordinates (88, 541) = (l,b):(171.2, -35.9)
+Area = 137
+	WCO peak(K km s-1) = 5.554666996
+	WCO minimum (K km s-1) = 1.4634885788
+	WCO mean (K km s-1) = 2.79560163682
+	WCO standard deviation (K km s-1) = 0.917393573316
+	WCO sum (K km s-1) = 382.997424245
+
+
+Cloud 99:
+Pixel coordinates (316, 402) = (l,b):(148.4, -49.8)
+Area = 68
+	WCO peak(K km s-1) = 5.46492910385
+	WCO minimum (K km s-1) = 1.73825156689
+	WCO mean (K km s-1) = 2.49641385674
+	WCO standard deviation (K km s-1) = 0.807705301112
+	WCO sum (K km s-1) = 169.756142259
+
+
+Cloud 100:
+Pixel coordinates (1421, 1345) = (l,b):(37.9, 44.5)
+Area = 64
+	WCO peak(K km s-1) = 5.45713186264
+	WCO minimum (K km s-1) = 1.29311978817
+	WCO mean (K km s-1) = 2.68463093974
+	WCO standard deviation (K km s-1) = 1.14665269283
+	WCO sum (K km s-1) = 171.816380143
+
+
+Cloud 101:
+Pixel coordinates (48, 649) = (l,b):(175.2, -25.1)
+Area = 43
+	WCO peak(K km s-1) = 5.41752815247
+	WCO minimum (K km s-1) = 1.52396178246
+	WCO mean (K km s-1) = 3.01175713816
+	WCO standard deviation (K km s-1) = 1.03834159208
+	WCO sum (K km s-1) = 129.505556941
+
+
+Cloud 104:
+Pixel coordinates (2535, 1528) = (l,b):(-73.5, 62.8)
+Area = 54
+	WCO peak(K km s-1) = 5.32677364349
+	WCO minimum (K km s-1) = 1.45420336723
+	WCO mean (K km s-1) = 2.75207065653
+	WCO standard deviation (K km s-1) = 1.0539036475
+	WCO sum (K km s-1) = 148.611815453
+
+
+Cloud 105:
+Pixel coordinates (1701, 616) = (l,b):(9.9, -28.4)
+Area = 76
+	WCO peak(K km s-1) = 5.28745222092
+	WCO minimum (K km s-1) = 1.43053042889
+	WCO mean (K km s-1) = 2.72807777085
+	WCO standard deviation (K km s-1) = 1.03405095766
+	WCO sum (K km s-1) = 207.333910584
+
+
+Cloud 108:
+Pixel coordinates (279, 647) = (l,b):(152.1, -25.3)
+Area = 45
+	WCO peak(K km s-1) = 5.22743844986
+	WCO minimum (K km s-1) = 1.49543142319
+	WCO mean (K km s-1) = 3.19668026235
+	WCO standard deviation (K km s-1) = 1.16079656174
+	WCO sum (K km s-1) = 143.850611806
+
+
+Cloud 109:
+Pixel coordinates (3478, 634) = (l,b):(-167.8, -26.6)
+Area = 46
+	WCO peak(K km s-1) = 5.20412111282
+	WCO minimum (K km s-1) = 1.55117094517
+	WCO mean (K km s-1) = 2.54478391357
+	WCO standard deviation (K km s-1) = 0.887270869454
+	WCO sum (K km s-1) = 117.060060024
+
+
+Cloud 113:
+Pixel coordinates (166, 620) = (l,b):(163.4, -28.0)
+Area = 69
+	WCO peak(K km s-1) = 5.02985668182
+	WCO minimum (K km s-1) = 1.5699095726
+	WCO mean (K km s-1) = 2.600352987
+	WCO standard deviation (K km s-1) = 0.874896497227
+	WCO sum (K km s-1) = 179.424356103
+
+
+Cloud 114:
+Pixel coordinates (3554, 591) = (l,b):(-175.4, -30.9)
+Area = 44
+	WCO peak(K km s-1) = 5.0208568573
+	WCO minimum (K km s-1) = 1.45320129395
+	WCO mean (K km s-1) = 2.60290916941
+	WCO standard deviation (K km s-1) = 0.959062112504
+	WCO sum (K km s-1) = 114.528003454
+
+
+Cloud 116:
+Pixel coordinates (892, 1282) = (l,b):(90.8, 38.2)
+Area = 217
+	WCO peak(K km s-1) = 4.99148082733
+	WCO minimum (K km s-1) = 0.582065582275
+	WCO mean (K km s-1) = 1.55194570749
+	WCO standard deviation (K km s-1) = 0.898195454404
+	WCO sum (K km s-1) = 336.772218525
+
+
+Cloud 120:
+Pixel coordinates (762, 585) = (l,b):(103.8, -31.5)
+Area = 192
+	WCO peak(K km s-1) = 4.88710403442
+	WCO minimum (K km s-1) = 1.37201559544
+	WCO mean (K km s-1) = 2.38429243987
+	WCO standard deviation (K km s-1) = 0.795453900258
+	WCO sum (K km s-1) = 457.784148455
+
+
+Cloud 122:
+Pixel coordinates (1231, 458) = (l,b):(56.9, -44.2)
+Area = 104
+	WCO peak(K km s-1) = 4.81781959534
+	WCO minimum (K km s-1) = 1.19226527214
+	WCO mean (K km s-1) = 2.60582378621
+	WCO standard deviation (K km s-1) = 0.870480673628
+	WCO sum (K km s-1) = 271.005673766
+
+
+Cloud 124:
+Pixel coordinates (67, 500) = (l,b):(173.3, -40.0)
+Area = 54
+	WCO peak(K km s-1) = 4.80406332016
+	WCO minimum (K km s-1) = 1.47904026508
+	WCO mean (K km s-1) = 2.46461987716
+	WCO standard deviation (K km s-1) = 0.779210573585
+	WCO sum (K km s-1) = 133.089473367
+
+
+Cloud 126:
+Pixel coordinates (124, 458) = (l,b):(167.6, -44.2)
+Area = 90
+	WCO peak(K km s-1) = 4.78793954849
+	WCO minimum (K km s-1) = 1.49553978443
+	WCO mean (K km s-1) = 2.61758610408
+	WCO standard deviation (K km s-1) = 0.862046918515
+	WCO sum (K km s-1) = 235.582749367
+
+
+Cloud 128:
+Pixel coordinates (109, 443) = (l,b):(169.1, -45.7)
+Area = 62
+	WCO peak(K km s-1) = 4.75976991653
+	WCO minimum (K km s-1) = 1.50637447834
+	WCO mean (K km s-1) = 2.52072949756
+	WCO standard deviation (K km s-1) = 0.773774883769
+	WCO sum (K km s-1) = 156.285228848
+
+
+Cloud 135:
+Pixel coordinates (1189, 559) = (l,b):(61.1, -34.1)
+Area = 41
+	WCO peak(K km s-1) = 4.66656970978
+	WCO minimum (K km s-1) = 1.23872077465
+	WCO mean (K km s-1) = 2.35516679578
+	WCO standard deviation (K km s-1) = 0.915221382566
+	WCO sum (K km s-1) = 96.5618386269
+
+
+Cloud 136:
+Pixel coordinates (79, 498) = (l,b):(172.1, -40.2)
+Area = 55
+	WCO peak(K km s-1) = 4.63643264771
+	WCO minimum (K km s-1) = 1.5399929285
+	WCO mean (K km s-1) = 2.95486330769
+	WCO standard deviation (K km s-1) = 0.874837222965
+	WCO sum (K km s-1) = 162.517481923
+
+
+Cloud 137:
+Pixel coordinates (824, 20) = (l,b):(97.6, -88.0)
+Area = 446
+	WCO peak(K km s-1) = 4.59797716141
+	WCO minimum (K km s-1) = 1.35305631161
+	WCO mean (K km s-1) = 2.60843941957
+	WCO standard deviation (K km s-1) = 1.00220639923
+	WCO sum (K km s-1) = 1163.36398113
+
+
+Cloud 138:
+Pixel coordinates (537, 1227) = (l,b):(126.3, 32.7)
+Area = 77
+	WCO peak(K km s-1) = 4.59225702286
+	WCO minimum (K km s-1) = 1.07061779499
+	WCO mean (K km s-1) = 2.0977559229
+	WCO standard deviation (K km s-1) = 0.854438609386
+	WCO sum (K km s-1) = 161.527206063
+
+
+Cloud 157:
+Pixel coordinates (184, 615) = (l,b):(161.6, -28.5)
+Area = 116
+	WCO peak(K km s-1) = 4.31607723236
+	WCO minimum (K km s-1) = 1.49856126308
+	WCO mean (K km s-1) = 2.38183849639
+	WCO standard deviation (K km s-1) = 0.725301861526
+	WCO sum (K km s-1) = 276.293265581
+
+
+Cloud 160:
+Pixel coordinates (46, 512) = (l,b):(175.4, -38.8)
+Area = 48
+	WCO peak(K km s-1) = 4.15935707092
+	WCO minimum (K km s-1) = 1.52309465408
+	WCO mean (K km s-1) = 2.25120812406
+	WCO standard deviation (K km s-1) = 0.647862623011
+	WCO sum (K km s-1) = 108.057989955
+
+
+Cloud 162:
+Pixel coordinates (316, 1283) = (l,b):(148.4, 38.3)
+Area = 98
+	WCO peak(K km s-1) = 4.15301704407
+	WCO minimum (K km s-1) = 1.19879305363
+	WCO mean (K km s-1) = 2.46962957723
+	WCO standard deviation (K km s-1) = 0.777302171297
+	WCO sum (K km s-1) = 242.023698568
+
+
+Cloud 166:
+Pixel coordinates (3588, 615) = (l,b):(-178.8, -28.5)
+Area = 52
+	WCO peak(K km s-1) = 4.12757062912
+	WCO minimum (K km s-1) = 1.53739333153
+	WCO mean (K km s-1) = 2.25421491265
+	WCO standard deviation (K km s-1) = 0.578101139027
+	WCO sum (K km s-1) = 117.219175458
+
+
+Cloud 173:
+Pixel coordinates (72, 536) = (l,b):(172.8, -36.4)
+Area = 61
+	WCO peak(K km s-1) = 4.07437229156
+	WCO minimum (K km s-1) = 1.51511096954
+	WCO mean (K km s-1) = 2.46688931887
+	WCO standard deviation (K km s-1) = 0.683184475821
+	WCO sum (K km s-1) = 150.480248451
+
+
+Cloud 179:
+Pixel coordinates (8, 609) = (l,b):(179.2, -29.1)
+Area = 44
+	WCO peak(K km s-1) = 4.0417637825
+	WCO minimum (K km s-1) = 1.49695432186
+	WCO mean (K km s-1) = 2.0990336429
+	WCO standard deviation (K km s-1) = 0.536536238885
+	WCO sum (K km s-1) = 92.3574802876
+
+
+Cloud 183:
+Pixel coordinates (1132, 616) = (l,b):(66.8, -28.4)
+Area = 120
+	WCO peak(K km s-1) = 4.01629257202
+	WCO minimum (K km s-1) = 1.11767995358
+	WCO mean (K km s-1) = 2.07567117711
+	WCO standard deviation (K km s-1) = 0.714688871971
+	WCO sum (K km s-1) = 249.080541253
+
+
+Cloud 184:
+Pixel coordinates (1058, 410) = (l,b):(74.2, -49.0)
+Area = 44
+	WCO peak(K km s-1) = 4.01587152481
+	WCO minimum (K km s-1) = 1.38837742805
+	WCO mean (K km s-1) = 2.16618334976
+	WCO standard deviation (K km s-1) = 0.625519421858
+	WCO sum (K km s-1) = 95.3120673895
+
+
+Cloud 192:
+Pixel coordinates (1082, 472) = (l,b):(71.8, -42.8)
+Area = 93
+	WCO peak(K km s-1) = 3.96293234825
+	WCO minimum (K km s-1) = 1.34522175789
+	WCO mean (K km s-1) = 2.11326393902
+	WCO standard deviation (K km s-1) = 0.594992164199
+	WCO sum (K km s-1) = 196.533546329
+
+
+Cloud 198:
+Pixel coordinates (165, 465) = (l,b):(163.5, -43.5)
+Area = 58
+	WCO peak(K km s-1) = 3.91686034203
+	WCO minimum (K km s-1) = 1.48369669914
+	WCO mean (K km s-1) = 2.32699320029
+	WCO standard deviation (K km s-1) = 0.556578404699
+	WCO sum (K km s-1) = 134.965605617
+
+
+Cloud 204:
+Pixel coordinates (624, 374) = (l,b):(117.6, -52.6)
+Area = 58
+	WCO peak(K km s-1) = 3.88258767128
+	WCO minimum (K km s-1) = 1.59087061882
+	WCO mean (K km s-1) = 2.18253351286
+	WCO standard deviation (K km s-1) = 0.518048623716
+	WCO sum (K km s-1) = 126.586943746
+
+
+Cloud 216:
+Pixel coordinates (2393, 581) = (l,b):(-59.3, -31.9)
+Area = 63
+	WCO peak(K km s-1) = 3.81996798515
+	WCO minimum (K km s-1) = 0.924904704094
+	WCO mean (K km s-1) = 1.84061429141
+	WCO standard deviation (K km s-1) = 0.777822331675
+	WCO sum (K km s-1) = 115.958700359
+
+
+Cloud 259:
+Pixel coordinates (1350, 536) = (l,b):(45.0, -36.4)
+Area = 75
+	WCO peak(K km s-1) = 3.56340384483
+	WCO minimum (K km s-1) = 1.30238997936
+	WCO mean (K km s-1) = 1.90851766745
+	WCO standard deviation (K km s-1) = 0.500246574179
+	WCO sum (K km s-1) = 143.138825059
+
+
+Cloud 262:
+Pixel coordinates (777, 337) = (l,b):(102.3, -56.3)
+Area = 52
+	WCO peak(K km s-1) = 3.55563354492
+	WCO minimum (K km s-1) = 1.46691417694
+	WCO mean (K km s-1) = 2.17731107657
+	WCO standard deviation (K km s-1) = 0.575543667523
+	WCO sum (K km s-1) = 113.220175982
+
+
+Cloud 276:
+Pixel coordinates (610, 1179) = (l,b):(119.0, 27.9)
+Area = 87
+	WCO peak(K km s-1) = 3.4771232605
+	WCO minimum (K km s-1) = 1.01040947437
+	WCO mean (K km s-1) = 1.96404004919
+	WCO standard deviation (K km s-1) = 0.594490965485
+	WCO sum (K km s-1) = 170.87148428
+
+
+Cloud 288:
+Pixel coordinates (380, 1253) = (l,b):(142.0, 35.3)
+Area = 84
+	WCO peak(K km s-1) = 3.44112730026
+	WCO minimum (K km s-1) = 1.21463429928
+	WCO mean (K km s-1) = 1.90486977498
+	WCO standard deviation (K km s-1) = 0.558648857203
+	WCO sum (K km s-1) = 160.009061098
+
+
+Cloud 294:
+Pixel coordinates (433, 215) = (l,b):(136.7, -68.5)
+Area = 100
+	WCO peak(K km s-1) = 3.41650438309
+	WCO minimum (K km s-1) = 1.51947128773
+	WCO mean (K km s-1) = 2.18426219821
+	WCO standard deviation (K km s-1) = 0.507166913347
+	WCO sum (K km s-1) = 218.426219821
+
+
+Cloud 335:
+Pixel coordinates (833, 603) = (l,b):(96.7, -29.7)
+Area = 41
+	WCO peak(K km s-1) = 3.31860613823
+	WCO minimum (K km s-1) = 1.35073292255
+	WCO mean (K km s-1) = 2.00424910464
+	WCO standard deviation (K km s-1) = 0.503466606311
+	WCO sum (K km s-1) = 82.1742132902
+
+
+Cloud 412:
+Pixel coordinates (1756, 17) = (l,b):(4.4, -88.3)
+Area = 140
+	WCO peak(K km s-1) = 3.15847206116
+	WCO minimum (K km s-1) = 1.38940680027
+	WCO mean (K km s-1) = 2.24680534686
+	WCO standard deviation (K km s-1) = 0.566696228786
+	WCO sum (K km s-1) = 314.552748561
+
+
+Cloud 438:
+Pixel coordinates (781, 623) = (l,b):(101.9, -27.7)
+Area = 47
+	WCO peak(K km s-1) = 3.12395763397
+	WCO minimum (K km s-1) = 1.33160233498
+	WCO mean (K km s-1) = 1.85865636836
+	WCO standard deviation (K km s-1) = 0.419286151675
+	WCO sum (K km s-1) = 87.3568493128
+
+
+Cloud 458:
+Pixel coordinates (1102, 592) = (l,b):(69.8, -30.8)
+Area = 41
+	WCO peak(K km s-1) = 3.09017539024
+	WCO minimum (K km s-1) = 1.04253947735
+	WCO mean (K km s-1) = 1.68130718208
+	WCO standard deviation (K km s-1) = 0.476154320638
+	WCO sum (K km s-1) = 68.9335944653
+
+
+Cloud 466:
+Pixel coordinates (3518, 32) = (l,b):(-171.8, -86.8)
+Area = 58
+	WCO peak(K km s-1) = 3.07864761353
+	WCO minimum (K km s-1) = 1.36040818691
+	WCO mean (K km s-1) = 2.08866831146
+	WCO standard deviation (K km s-1) = 0.623236090236
+	WCO sum (K km s-1) = 121.142762065
+
+
+Cloud 478:
+Pixel coordinates (1526, 660) = (l,b):(27.4, -24.0)
+Area = 61
+	WCO peak(K km s-1) = 3.06451845169
+	WCO minimum (K km s-1) = 1.45061802864
+	WCO mean (K km s-1) = 2.10058903499
+	WCO standard deviation (K km s-1) = 0.437530963189
+	WCO sum (K km s-1) = 128.135931134
+
+
+Cloud 490:
+Pixel coordinates (2187, 87) = (l,b):(-38.7, -81.3)
+Area = 68
+	WCO peak(K km s-1) = 3.0538892746
+	WCO minimum (K km s-1) = 1.40295362473
+	WCO mean (K km s-1) = 2.12231398505
+	WCO standard deviation (K km s-1) = 0.456197039496
+	WCO sum (K km s-1) = 144.317350984
+
+
+Cloud 492:
+Pixel coordinates (2341, 559) = (l,b):(-54.1, -34.1)
+Area = 41
+	WCO peak(K km s-1) = 3.04944896698
+	WCO minimum (K km s-1) = 0.980825424194
+	WCO mean (K km s-1) = 1.64165379361
+	WCO standard deviation (K km s-1) = 0.509365533427
+	WCO sum (K km s-1) = 67.3078055382
+
+
+Cloud 498:
+Pixel coordinates (705, 521) = (l,b):(109.5, -37.9)
+Area = 41
+	WCO peak(K km s-1) = 3.04279518127
+	WCO minimum (K km s-1) = 1.52525949478
+	WCO mean (K km s-1) = 2.21676684298
+	WCO standard deviation (K km s-1) = 0.409072538084
+	WCO sum (K km s-1) = 90.8874405622
+
+
+Cloud 584:
+Pixel coordinates (2448, 536) = (l,b):(-64.8, -36.4)
+Area = 73
+	WCO peak(K km s-1) = 2.96137213707
+	WCO minimum (K km s-1) = 0.698922753334
+	WCO mean (K km s-1) = 1.55252489897
+	WCO standard deviation (K km s-1) = 0.630077308433
+	WCO sum (K km s-1) = 113.334317625
+
+
+Cloud 592:
+Pixel coordinates (2965, 1716) = (l,b):(-116.5, 81.6)
+Area = 60
+	WCO peak(K km s-1) = 2.95628762245
+	WCO minimum (K km s-1) = 1.35244643688
+	WCO mean (K km s-1) = 1.94944204291
+	WCO standard deviation (K km s-1) = 0.434886448273
+	WCO sum (K km s-1) = 116.966522574
+
+
+Cloud 670:
+Pixel coordinates (575, 1205) = (l,b):(122.5, 30.5)
+Area = 44
+	WCO peak(K km s-1) = 2.90399765968
+	WCO minimum (K km s-1) = 1.09714519978
+	WCO mean (K km s-1) = 1.7145997611
+	WCO standard deviation (K km s-1) = 0.497734633187
+	WCO sum (K km s-1) = 75.4423894882
+
+
+Cloud 707:
+Pixel coordinates (1409, 1740) = (l,b):(39.1, 84.0)
+Area = 46
+	WCO peak(K km s-1) = 2.88126826286
+	WCO minimum (K km s-1) = 1.39291298389
+	WCO mean (K km s-1) = 2.02120775244
+	WCO standard deviation (K km s-1) = 0.526866010929
+	WCO sum (K km s-1) = 92.975556612
+
+
+Cloud 771:
+Pixel coordinates (3047, 1672) = (l,b):(-124.7, 77.2)
+Area = 51
+	WCO peak(K km s-1) = 2.84227085114
+	WCO minimum (K km s-1) = 1.39546275139
+	WCO mean (K km s-1) = 1.93104556495
+	WCO standard deviation (K km s-1) = 0.369202135628
+	WCO sum (K km s-1) = 98.4833238125
+
+
+Cloud 780:
+Pixel coordinates (2613, 567) = (l,b):(-81.3, -33.3)
+Area = 47
+	WCO peak(K km s-1) = 2.83696389198
+	WCO minimum (K km s-1) = 0.514331042767
+	WCO mean (K km s-1) = 1.18470678558
+	WCO standard deviation (K km s-1) = 0.587676772121
+	WCO sum (K km s-1) = 55.6812189221
+
+
+Cloud 852:
+Pixel coordinates (2963, 45) = (l,b):(-116.3, -85.5)
+Area = 46
+	WCO peak(K km s-1) = 2.80302762985
+	WCO minimum (K km s-1) = 1.49665379524
+	WCO mean (K km s-1) = 2.11576413331
+	WCO standard deviation (K km s-1) = 0.361984082912
+	WCO sum (K km s-1) = 97.3251501322
+
+
+Cloud 900:
+Pixel coordinates (1436, 327) = (l,b):(36.4, -57.3)
+Area = 46
+	WCO peak(K km s-1) = 2.77811479568
+	WCO minimum (K km s-1) = 1.24458563328
+	WCO mean (K km s-1) = 1.82060530652
+	WCO standard deviation (K km s-1) = 0.45898705585
+	WCO sum (K km s-1) = 83.7478441
+
+
+Cloud 907:
+Pixel coordinates (3196, 103) = (l,b):(-139.6, -79.7)
+Area = 55
+	WCO peak(K km s-1) = 2.7746193409
+	WCO minimum (K km s-1) = 1.36264741421
+	WCO mean (K km s-1) = 1.82552606626
+	WCO standard deviation (K km s-1) = 0.396116390529
+	WCO sum (K km s-1) = 100.403933644
+
+
+Cloud 973:
+Pixel coordinates (953, 44) = (l,b):(84.7, -85.6)
+Area = 150
+	WCO peak(K km s-1) = 2.74381041527
+	WCO minimum (K km s-1) = 1.39345765114
+	WCO mean (K km s-1) = 1.83793582201
+	WCO standard deviation (K km s-1) = 0.344860139798
+	WCO sum (K km s-1) = 275.690373302
+
+
+Cloud 1005:
+Pixel coordinates (8, 100) = (l,b):(179.2, -80.0)
+Area = 53
+	WCO peak(K km s-1) = 2.73111510277
+	WCO minimum (K km s-1) = 1.43408966064
+	WCO mean (K km s-1) = 2.01045929711
+	WCO standard deviation (K km s-1) = 0.3899427829
+	WCO sum (K km s-1) = 106.554342747
+
+
+Cloud 1071:
+Pixel coordinates (70, 30) = (l,b):(173.0, -87.0)
+Area = 172
+	WCO peak(K km s-1) = 2.70827746391
+	WCO minimum (K km s-1) = 1.36273634434
+	WCO mean (K km s-1) = 1.88195723365
+	WCO standard deviation (K km s-1) = 0.383736398564
+	WCO sum (K km s-1) = 323.696644187
+
+
+Cloud 1151:
+Pixel coordinates (1940, 65) = (l,b):(-14.0, -83.5)
+Area = 72
+	WCO peak(K km s-1) = 2.67465758324
+	WCO minimum (K km s-1) = 1.36832273006
+	WCO mean (K km s-1) = 1.94627733032
+	WCO standard deviation (K km s-1) = 0.464010351467
+	WCO sum (K km s-1) = 140.131967783
+
+
+Cloud 1194:
+Pixel coordinates (1501, 110) = (l,b):(29.9, -79.0)
+Area = 47
+	WCO peak(K km s-1) = 2.6606991291
+	WCO minimum (K km s-1) = 1.39334344864
+	WCO mean (K km s-1) = 1.93182990145
+	WCO standard deviation (K km s-1) = 0.375449839377
+	WCO sum (K km s-1) = 90.7960053682
+
+
+Cloud 1206:
+Pixel coordinates (1582, 1759) = (l,b):(21.8, 85.9)
+Area = 99
+	WCO peak(K km s-1) = 2.65796208382
+	WCO minimum (K km s-1) = 1.34403467178
+	WCO mean (K km s-1) = 1.81999975744
+	WCO standard deviation (K km s-1) = 0.337922968319
+	WCO sum (K km s-1) = 180.179975986
+
+
+Cloud 1212:
+Pixel coordinates (1336, 63) = (l,b):(46.4, -83.7)
+Area = 97
+	WCO peak(K km s-1) = 2.6556596756
+	WCO minimum (K km s-1) = 1.35690259933
+	WCO mean (K km s-1) = 2.01759781911
+	WCO standard deviation (K km s-1) = 0.383139231948
+	WCO sum (K km s-1) = 195.706988454
+
+
+Cloud 1362:
+Pixel coordinates (67, 103) = (l,b):(173.3, -79.7)
+Area = 61
+	WCO peak(K km s-1) = 2.61852478981
+	WCO minimum (K km s-1) = 1.46626353264
+	WCO mean (K km s-1) = 1.87851130767
+	WCO standard deviation (K km s-1) = 0.323234815636
+	WCO sum (K km s-1) = 114.589189768
+
+
+Cloud 1584:
+Pixel coordinates (2073, 124) = (l,b):(-27.3, -77.6)
+Area = 41
+	WCO peak(K km s-1) = 2.56611180305
+	WCO minimum (K km s-1) = 1.25457346439
+	WCO mean (K km s-1) = 1.7719121619
+	WCO standard deviation (K km s-1) = 0.381216966886
+	WCO sum (K km s-1) = 72.6483986378
+
+
+Cloud 1751:
+Pixel coordinates (873, 1265) = (l,b):(92.7, 36.5)
+Area = 119
+	WCO peak(K km s-1) = 2.53369903564
+	WCO minimum (K km s-1) = 0.523792386055
+	WCO mean (K km s-1) = 1.01936382506
+	WCO standard deviation (K km s-1) = 0.432302532466
+	WCO sum (K km s-1) = 121.304295182
+
+
+Cloud 1770:
+Pixel coordinates (2029, 90) = (l,b):(-22.9, -81.0)
+Area = 49
+	WCO peak(K km s-1) = 2.52969527245
+	WCO minimum (K km s-1) = 1.33969974518
+	WCO mean (K km s-1) = 1.88990895359
+	WCO standard deviation (K km s-1) = 0.363236016618
+	WCO sum (K km s-1) = 92.6055387259
+
+
+Cloud 1830:
+Pixel coordinates (3263, 75) = (l,b):(-146.3, -82.5)
+Area = 48
+	WCO peak(K km s-1) = 2.51814818382
+	WCO minimum (K km s-1) = 1.34618091583
+	WCO mean (K km s-1) = 1.90184963743
+	WCO standard deviation (K km s-1) = 0.367005626644
+	WCO sum (K km s-1) = 91.2887825966
+
+
+Cloud 1871:
+Pixel coordinates (1469, 29) = (l,b):(33.1, -87.1)
+Area = 78
+	WCO peak(K km s-1) = 2.51117777824
+	WCO minimum (K km s-1) = 1.42919790745
+	WCO mean (K km s-1) = 1.82401212362
+	WCO standard deviation (K km s-1) = 0.336822453907
+	WCO sum (K km s-1) = 142.272945642
+
+
+Cloud 1939:
+Pixel coordinates (2700, 72) = (l,b):(-90.0, -82.8)
+Area = 62
+	WCO peak(K km s-1) = 2.50104165077
+	WCO minimum (K km s-1) = 1.30623447895
+	WCO mean (K km s-1) = 1.94144969217
+	WCO standard deviation (K km s-1) = 0.348848207529
+	WCO sum (K km s-1) = 120.369880915
+
+
+Cloud 2255:
+Pixel coordinates (321, 49) = (l,b):(147.9, -85.1)
+Area = 45
+	WCO peak(K km s-1) = 2.45215773582
+	WCO minimum (K km s-1) = 1.39818894863
+	WCO mean (K km s-1) = 1.77574964629
+	WCO standard deviation (K km s-1) = 0.37726182963
+	WCO sum (K km s-1) = 79.9087340832
+
+
+Cloud 2433:
+Pixel coordinates (1645, 40) = (l,b):(15.5, -86.0)
+Area = 59
+	WCO peak(K km s-1) = 2.42711663246
+	WCO minimum (K km s-1) = 1.41254281998
+	WCO mean (K km s-1) = 1.81043766919
+	WCO standard deviation (K km s-1) = 0.333940093615
+	WCO sum (K km s-1) = 106.815822482
+
+
+Cloud 2730:
+Pixel coordinates (3315, 29) = (l,b):(-151.5, -87.1)
+Area = 58
+	WCO peak(K km s-1) = 2.38891410828
+	WCO minimum (K km s-1) = 1.42698287964
+	WCO mean (K km s-1) = 1.85507558132
+	WCO standard deviation (K km s-1) = 0.329603678259
+	WCO sum (K km s-1) = 107.594383717
+
+
+Cloud 3006:
+Pixel coordinates (2234, 1741) = (l,b):(-43.4, 84.1)
+Area = 51
+	WCO peak(K km s-1) = 2.35926604271
+	WCO minimum (K km s-1) = 1.39993011951
+	WCO mean (K km s-1) = 1.95168376203
+	WCO standard deviation (K km s-1) = 0.283318209486
+	WCO sum (K km s-1) = 99.5358718634
+
+
+Cloud 3008:
+Pixel coordinates (63, 1775) = (l,b):(173.7, 87.5)
+Area = 70
+	WCO peak(K km s-1) = 2.35916781425
+	WCO minimum (K km s-1) = 1.33125424385
+	WCO mean (K km s-1) = 1.80051424674
+	WCO standard deviation (K km s-1) = 0.355122373188
+	WCO sum (K km s-1) = 126.035997272
+
+
+Cloud 3015:
+Pixel coordinates (2529, 12) = (l,b):(-72.9, -88.8)
+Area = 98
+	WCO peak(K km s-1) = 2.35822606087
+	WCO minimum (K km s-1) = 1.46220505238
+	WCO mean (K km s-1) = 1.88144762419
+	WCO standard deviation (K km s-1) = 0.329708956414
+	WCO sum (K km s-1) = 184.38186717
+
+
+Cloud 3076:
+Pixel coordinates (24, 21) = (l,b):(177.6, -87.9)
+Area = 92
+	WCO peak(K km s-1) = 2.3519051075
+	WCO minimum (K km s-1) = 1.47354519367
+	WCO mean (K km s-1) = 2.00620663296
+	WCO standard deviation (K km s-1) = 0.267266187197
+	WCO sum (K km s-1) = 184.571010232
+
+
+Cloud 3145:
+Pixel coordinates (1457, 1770) = (l,b):(34.3, 87.0)
+Area = 45
+	WCO peak(K km s-1) = 2.34458088875
+	WCO minimum (K km s-1) = 1.35294210911
+	WCO mean (K km s-1) = 1.79707782004
+	WCO standard deviation (K km s-1) = 0.388008907372
+	WCO sum (K km s-1) = 80.8685019016
+
+
+Cloud 3412:
+Pixel coordinates (2486, 73) = (l,b):(-68.6, -82.7)
+Area = 45
+	WCO peak(K km s-1) = 2.31590223312
+	WCO minimum (K km s-1) = 1.35981309414
+	WCO mean (K km s-1) = 1.72551539209
+	WCO standard deviation (K km s-1) = 0.267548172844
+	WCO sum (K km s-1) = 77.6481926441
+
+
+Cloud 3518:
+Pixel coordinates (1355, 29) = (l,b):(44.5, -87.1)
+Area = 68
+	WCO peak(K km s-1) = 2.30582141876
+	WCO minimum (K km s-1) = 1.42926609516
+	WCO mean (K km s-1) = 1.8902512929
+	WCO standard deviation (K km s-1) = 0.279834822563
+	WCO sum (K km s-1) = 128.537087917
+
+
+Cloud 3660:
+Pixel coordinates (3081, 44) = (l,b):(-128.1, -85.6)
+Area = 100
+	WCO peak(K km s-1) = 2.29243588448
+	WCO minimum (K km s-1) = 1.36709332466
+	WCO mean (K km s-1) = 1.75290932178
+	WCO standard deviation (K km s-1) = 0.277312499303
+	WCO sum (K km s-1) = 175.290932178
+
+
+Cloud 3925:
+Pixel coordinates (1800, 1711) = (l,b):(0.0, 81.1)
+Area = 45
+	WCO peak(K km s-1) = 2.27087855339
+	WCO minimum (K km s-1) = 1.38588225842
+	WCO mean (K km s-1) = 1.65493935744
+	WCO standard deviation (K km s-1) = 0.218511972569
+	WCO sum (K km s-1) = 74.4722710848
+
+
+Cloud 4132:
+Pixel coordinates (104, 83) = (l,b):(169.6, -81.7)
+Area = 51
+	WCO peak(K km s-1) = 2.25212478638
+	WCO minimum (K km s-1) = 1.44185006618
+	WCO mean (K km s-1) = 1.72872738277
+	WCO standard deviation (K km s-1) = 0.231671512436
+	WCO sum (K km s-1) = 88.1650965214
+
+
+Cloud 4221:
+Pixel coordinates (2354, 1729) = (l,b):(-55.4, 82.9)
+Area = 44
+	WCO peak(K km s-1) = 2.24592804909
+	WCO minimum (K km s-1) = 1.42035055161
+	WCO mean (K km s-1) = 1.76778900894
+	WCO standard deviation (K km s-1) = 0.262672146901
+	WCO sum (K km s-1) = 77.7827163935
+
+
+Cloud 4317:
+Pixel coordinates (1677, 1681) = (l,b):(12.3, 78.1)
+Area = 45
+	WCO peak(K km s-1) = 2.23813986778
+	WCO minimum (K km s-1) = 1.43016922474
+	WCO mean (K km s-1) = 1.80666299131
+	WCO standard deviation (K km s-1) = 0.217224115457
+	WCO sum (K km s-1) = 81.299834609
+
+
+Cloud 4789:
+Pixel coordinates (109, 1747) = (l,b):(169.1, 84.7)
+Area = 48
+	WCO peak(K km s-1) = 2.20594739914
+	WCO minimum (K km s-1) = 1.32869946957
+	WCO mean (K km s-1) = 1.69826972236
+	WCO standard deviation (K km s-1) = 0.246517886105
+	WCO sum (K km s-1) = 81.5169466734
+
+
+Cloud 5019:
+Pixel coordinates (2247, 1711) = (l,b):(-44.7, 81.1)
+Area = 43
+	WCO peak(K km s-1) = 2.19121170044
+	WCO minimum (K km s-1) = 1.3948969841
+	WCO mean (K km s-1) = 1.71975062891
+	WCO standard deviation (K km s-1) = 0.22271586158
+	WCO sum (K km s-1) = 73.9492770433
+
+
+Cloud 5693:
+Pixel coordinates (146, 35) = (l,b):(165.4, -86.5)
+Area = 146
+	WCO peak(K km s-1) = 2.14677667618
+	WCO minimum (K km s-1) = 1.35069334507
+	WCO mean (K km s-1) = 1.68951587889
+	WCO standard deviation (K km s-1) = 0.218292483468
+	WCO sum (K km s-1) = 246.669318318
+
+
+Cloud 5727:
+Pixel coordinates (1428, 1761) = (l,b):(37.2, 86.1)
+Area = 70
+	WCO peak(K km s-1) = 2.14537739754
+	WCO minimum (K km s-1) = 1.3241519928
+	WCO mean (K km s-1) = 1.65857726676
+	WCO standard deviation (K km s-1) = 0.241134473598
+	WCO sum (K km s-1) = 116.100408673
+
+
+Cloud 5750:
+Pixel coordinates (375, 62) = (l,b):(142.5, -83.8)
+Area = 41
+	WCO peak(K km s-1) = 2.14378213882
+	WCO minimum (K km s-1) = 1.42883718014
+	WCO mean (K km s-1) = 1.75736215638
+	WCO standard deviation (K km s-1) = 0.22184495623
+	WCO sum (K km s-1) = 72.0518484116
+
+
+Cloud 5753:
+Pixel coordinates (3409, 1721) = (l,b):(-160.9, 82.1)
+Area = 75
+	WCO peak(K km s-1) = 2.14372467995
+	WCO minimum (K km s-1) = 1.30602288246
+	WCO mean (K km s-1) = 1.60833266417
+	WCO standard deviation (K km s-1) = 0.253792608371
+	WCO sum (K km s-1) = 120.624949813
+
+
+Cloud 6133:
+Pixel coordinates (2253, 38) = (l,b):(-45.3, -86.2)
+Area = 44
+	WCO peak(K km s-1) = 2.12432336807
+	WCO minimum (K km s-1) = 1.37814760208
+	WCO mean (K km s-1) = 1.75715256821
+	WCO standard deviation (K km s-1) = 0.235448283106
+	WCO sum (K km s-1) = 77.3147130013
+
+
+Cloud 6220:
+Pixel coordinates (1085, 1744) = (l,b):(71.5, 84.4)
+Area = 50
+	WCO peak(K km s-1) = 2.1204252243
+	WCO minimum (K km s-1) = 1.33515417576
+	WCO mean (K km s-1) = 1.63696492672
+	WCO standard deviation (K km s-1) = 0.236940388834
+	WCO sum (K km s-1) = 81.848246336
+
+
+Cloud 6535:
+Pixel coordinates (2740, 1747) = (l,b):(-94.0, 84.7)
+Area = 43
+	WCO peak(K km s-1) = 2.10241007805
+	WCO minimum (K km s-1) = 1.42604327202
+	WCO mean (K km s-1) = 1.74973118028
+	WCO standard deviation (K km s-1) = 0.199850048507
+	WCO sum (K km s-1) = 75.238440752
+
+
+Cloud 6722:
+Pixel coordinates (2107, 1770) = (l,b):(-30.7, 87.0)
+Area = 60
+	WCO peak(K km s-1) = 2.09426307678
+	WCO minimum (K km s-1) = 1.36473703384
+	WCO mean (K km s-1) = 1.70314545631
+	WCO standard deviation (K km s-1) = 0.255005345411
+	WCO sum (K km s-1) = 102.188727379
+
+
+Cloud 6938:
+Pixel coordinates (2709, 90) = (l,b):(-90.9, -81.0)
+Area = 55
+	WCO peak(K km s-1) = 2.08389139175
+	WCO minimum (K km s-1) = 1.364361763
+	WCO mean (K km s-1) = 1.71040806337
+	WCO standard deviation (K km s-1) = 0.182612223926
+	WCO sum (K km s-1) = 94.0724434853
+
+
+Cloud 7002:
+Pixel coordinates (266, 37) = (l,b):(153.4, -86.3)
+Area = 62
+	WCO peak(K km s-1) = 2.08017778397
+	WCO minimum (K km s-1) = 1.41133344173
+	WCO mean (K km s-1) = 1.72245403836
+	WCO standard deviation (K km s-1) = 0.220056830976
+	WCO sum (K km s-1) = 106.792150378
+
+
+Cloud 7022:
+Pixel coordinates (1601, 144) = (l,b):(19.9, -75.6)
+Area = 43
+	WCO peak(K km s-1) = 2.07947039604
+	WCO minimum (K km s-1) = 1.17086303234
+	WCO mean (K km s-1) = 1.53187892603
+	WCO standard deviation (K km s-1) = 0.254623808485
+	WCO sum (K km s-1) = 65.8707938194
+
+
+Cloud 7159:
+Pixel coordinates (1130, 1740) = (l,b):(67.0, 84.0)
+Area = 44
+	WCO peak(K km s-1) = 2.07269716263
+	WCO minimum (K km s-1) = 1.35683858395
+	WCO mean (K km s-1) = 1.68312458288
+	WCO standard deviation (K km s-1) = 0.229375140315
+	WCO sum (K km s-1) = 74.0574816465
+
+
+Cloud 7193:
+Pixel coordinates (1879, 1788) = (l,b):(-7.9, 88.8)
+Area = 113
+	WCO peak(K km s-1) = 2.07101130486
+	WCO minimum (K km s-1) = 1.45945620537
+	WCO mean (K km s-1) = 1.73689727551
+	WCO standard deviation (K km s-1) = 0.219050760888
+	WCO sum (K km s-1) = 196.269392133
+
+
+Cloud 7462:
+Pixel coordinates (58, 72) = (l,b):(174.2, -82.8)
+Area = 44
+	WCO peak(K km s-1) = 2.05994296074
+	WCO minimum (K km s-1) = 1.38541984558
+	WCO mean (K km s-1) = 1.69334822893
+	WCO standard deviation (K km s-1) = 0.209715511149
+	WCO sum (K km s-1) = 74.507322073
+
+
+Cloud 7579:
+Pixel coordinates (1698, 1743) = (l,b):(10.2, 84.3)
+Area = 45
+	WCO peak(K km s-1) = 2.05520200729
+	WCO minimum (K km s-1) = 1.37552630901
+	WCO mean (K km s-1) = 1.66571992503
+	WCO standard deviation (K km s-1) = 0.212464389779
+	WCO sum (K km s-1) = 74.9573966265
+
+
+Cloud 7689:
+Pixel coordinates (690, 1764) = (l,b):(111.0, 86.4)
+Area = 56
+	WCO peak(K km s-1) = 2.0498175621
+	WCO minimum (K km s-1) = 1.38265824318
+	WCO mean (K km s-1) = 1.6916042992
+	WCO standard deviation (K km s-1) = 0.215164161187
+	WCO sum (K km s-1) = 94.7298407555
+
+
+Cloud 7798:
+Pixel coordinates (182, 1743) = (l,b):(161.8, 84.3)
+Area = 46
+	WCO peak(K km s-1) = 2.04438686371
+	WCO minimum (K km s-1) = 1.30807173252
+	WCO mean (K km s-1) = 1.614504187
+	WCO standard deviation (K km s-1) = 0.222184104979
+	WCO sum (K km s-1) = 74.2671926022
+
+
+Cloud 7825:
+Pixel coordinates (843, 84) = (l,b):(95.7, -81.6)
+Area = 48
+	WCO peak(K km s-1) = 2.04333138466
+	WCO minimum (K km s-1) = 1.40544962883
+	WCO mean (K km s-1) = 1.72364289314
+	WCO standard deviation (K km s-1) = 0.183295406579
+	WCO sum (K km s-1) = 82.7348588705
+
+
+Cloud 7897:
+Pixel coordinates (3059, 23) = (l,b):(-125.9, -87.7)
+Area = 103
+	WCO peak(K km s-1) = 2.04038977623
+	WCO minimum (K km s-1) = 1.3954873085
+	WCO mean (K km s-1) = 1.67587416843
+	WCO standard deviation (K km s-1) = 0.198430795585
+	WCO sum (K km s-1) = 172.615039349
+
+
+Cloud 8025:
+Pixel coordinates (3530, 77) = (l,b):(-173.0, -82.3)
+Area = 53
+	WCO peak(K km s-1) = 2.03553700447
+	WCO minimum (K km s-1) = 1.35497438908
+	WCO mean (K km s-1) = 1.68492881982
+	WCO standard deviation (K km s-1) = 0.177952908022
+	WCO sum (K km s-1) = 89.3012274504
+
+
+Cloud 8359:
+Pixel coordinates (18, 74) = (l,b):(178.2, -82.6)
+Area = 43
+	WCO peak(K km s-1) = 2.02211523056
+	WCO minimum (K km s-1) = 1.40902733803
+	WCO mean (K km s-1) = 1.71777966133
+	WCO standard deviation (K km s-1) = 0.182607607371
+	WCO sum (K km s-1) = 73.8645254374
+
+
+Cloud 8395:
+Pixel coordinates (2578, 66) = (l,b):(-77.8, -83.4)
+Area = 54
+	WCO peak(K km s-1) = 2.02075910568
+	WCO minimum (K km s-1) = 1.34796380997
+	WCO mean (K km s-1) = 1.70614653384
+	WCO standard deviation (K km s-1) = 0.214913953973
+	WCO sum (K km s-1) = 92.1319128275
+
+
+Cloud 8640:
+Pixel coordinates (3285, 1770) = (l,b):(-148.5, 87.0)
+Area = 83
+	WCO peak(K km s-1) = 2.01177930832
+	WCO minimum (K km s-1) = 1.34252583981
+	WCO mean (K km s-1) = 1.60247811208
+	WCO standard deviation (K km s-1) = 0.217373035701
+	WCO sum (K km s-1) = 133.005683303
+
+
+Cloud 8998:
+Pixel coordinates (2776, 1772) = (l,b):(-97.6, 87.2)
+Area = 45
+	WCO peak(K km s-1) = 1.99636805058
+	WCO minimum (K km s-1) = 1.45230686665
+	WCO mean (K km s-1) = 1.72657251093
+	WCO standard deviation (K km s-1) = 0.187651165843
+	WCO sum (K km s-1) = 77.6957629919
+
+
+Cloud 9270:
+Pixel coordinates (262, 1787) = (l,b):(153.8, 88.7)
+Area = 181
+	WCO peak(K km s-1) = 1.98665130138
+	WCO minimum (K km s-1) = 1.33456766605
+	WCO mean (K km s-1) = 1.62931350516
+	WCO standard deviation (K km s-1) = 0.185183675715
+	WCO sum (K km s-1) = 294.905744433
+
+
+Cloud 9296:
+Pixel coordinates (2819, 40) = (l,b):(-101.9, -86.0)
+Area = 43
+	WCO peak(K km s-1) = 1.98594617844
+	WCO minimum (K km s-1) = 1.36021912098
+	WCO mean (K km s-1) = 1.66815503531
+	WCO standard deviation (K km s-1) = 0.197821156604
+	WCO sum (K km s-1) = 71.7306665182
+
+
+Cloud 9317:
+Pixel coordinates (3246, 71) = (l,b):(-144.6, -82.9)
+Area = 56
+	WCO peak(K km s-1) = 1.98525846004
+	WCO minimum (K km s-1) = 1.39561510086
+	WCO mean (K km s-1) = 1.64345469006
+	WCO standard deviation (K km s-1) = 0.179175442896
+	WCO sum (K km s-1) = 92.0334626436
+
+
+Cloud 9387:
+Pixel coordinates (789, 1108) = (l,b):(101.1, 20.8)
+Area = 77
+	WCO peak(K km s-1) = 1.98328030109
+	WCO minimum (K km s-1) = 0.509229183197
+	WCO mean (K km s-1) = 1.0040790578
+	WCO standard deviation (K km s-1) = 0.315130685774
+	WCO sum (K km s-1) = 77.3140874505
+
+
+Cloud 9450:
+Pixel coordinates (3118, 128) = (l,b):(-131.8, -77.2)
+Area = 44
+	WCO peak(K km s-1) = 1.98063051701
+	WCO minimum (K km s-1) = 1.33642435074
+	WCO mean (K km s-1) = 1.6329299076
+	WCO standard deviation (K km s-1) = 0.206591328535
+	WCO sum (K km s-1) = 71.8489159346
+
+
+Cloud 9930:
+Pixel coordinates (3036, 10) = (l,b):(-123.6, -89.0)
+Area = 88
+	WCO peak(K km s-1) = 1.96285891533
+	WCO minimum (K km s-1) = 1.38322079182
+	WCO mean (K km s-1) = 1.66155001792
+	WCO standard deviation (K km s-1) = 0.215297734017
+	WCO sum (K km s-1) = 146.216401577
+
+
+Cloud 10108:
+Pixel coordinates (572, 33) = (l,b):(122.8, -86.7)
+Area = 52
+	WCO peak(K km s-1) = 1.95716333389
+	WCO minimum (K km s-1) = 1.34219253063
+	WCO mean (K km s-1) = 1.58642444473
+	WCO standard deviation (K km s-1) = 0.0966394566343
+	WCO sum (K km s-1) = 82.494071126
+
+
+Cloud 10158:
+Pixel coordinates (149, 11) = (l,b):(165.1, -88.9)
+Area = 118
+	WCO peak(K km s-1) = 1.95548284054
+	WCO minimum (K km s-1) = 1.38502657413
+	WCO mean (K km s-1) = 1.60180915715
+	WCO standard deviation (K km s-1) = 0.186500338406
+	WCO sum (K km s-1) = 189.013480544
+
+
+Cloud 10479:
+Pixel coordinates (579, 8) = (l,b):(122.1, -89.2)
+Area = 284
+	WCO peak(K km s-1) = 1.94457268715
+	WCO minimum (K km s-1) = 1.42842030525
+	WCO mean (K km s-1) = 1.60872036722
+	WCO standard deviation (K km s-1) = 0.141309307075
+	WCO sum (K km s-1) = 456.876584291
+
+
+Cloud 10827:
+Pixel coordinates (3274, 27) = (l,b):(-147.4, -87.3)
+Area = 50
+	WCO peak(K km s-1) = 1.93342792988
+	WCO minimum (K km s-1) = 1.39052510262
+	WCO mean (K km s-1) = 1.62562622786
+	WCO standard deviation (K km s-1) = 0.20159022408
+	WCO sum (K km s-1) = 81.2813113928
+
+
+Cloud 11108:
+Pixel coordinates (1679, 1761) = (l,b):(12.1, 86.1)
+Area = 57
+	WCO peak(K km s-1) = 1.92425048351
+	WCO minimum (K km s-1) = 1.35243320465
+	WCO mean (K km s-1) = 1.56602990836
+	WCO standard deviation (K km s-1) = 0.17098297178
+	WCO sum (K km s-1) = 89.2637047768
+
+
+Cloud 11698:
+Pixel coordinates (3093, 1737) = (l,b):(-129.3, 83.7)
+Area = 42
+	WCO peak(K km s-1) = 1.90672206879
+	WCO minimum (K km s-1) = 1.308147192
+	WCO mean (K km s-1) = 1.56765236741
+	WCO standard deviation (K km s-1) = 0.190419767306
+	WCO sum (K km s-1) = 65.8413994312
+
+
+Cloud 11998:
+Pixel coordinates (2096, 15) = (l,b):(-29.6, -88.5)
+Area = 61
+	WCO peak(K km s-1) = 1.89840936661
+	WCO minimum (K km s-1) = 1.3954628706
+	WCO mean (K km s-1) = 1.66260367339
+	WCO standard deviation (K km s-1) = 0.198539628969
+	WCO sum (K km s-1) = 101.418824077
+
+
+Cloud 12060:
+Pixel coordinates (667, 72) = (l,b):(113.3, -82.8)
+Area = 45
+	WCO peak(K km s-1) = 1.896479249
+	WCO minimum (K km s-1) = 1.42286121845
+	WCO mean (K km s-1) = 1.68453272714
+	WCO standard deviation (K km s-1) = 0.141137146709
+	WCO sum (K km s-1) = 75.8039727211
+
+
+Cloud 12085:
+Pixel coordinates (257, 21) = (l,b):(154.3, -87.9)
+Area = 107
+	WCO peak(K km s-1) = 1.89595472813
+	WCO minimum (K km s-1) = 1.41425991058
+	WCO mean (K km s-1) = 1.64899726672
+	WCO standard deviation (K km s-1) = 0.140896453547
+	WCO sum (K km s-1) = 176.442707539
+
+
+Cloud 12934:
+Pixel coordinates (3347, 25) = (l,b):(-154.7, -87.5)
+Area = 52
+	WCO peak(K km s-1) = 1.87209510803
+	WCO minimum (K km s-1) = 1.33899617195
+	WCO mean (K km s-1) = 1.59199291697
+	WCO standard deviation (K km s-1) = 0.166018962101
+	WCO sum (K km s-1) = 82.7836316824
+
+
+Cloud 13604:
+Pixel coordinates (944, 24) = (l,b):(85.6, -87.6)
+Area = 56
+	WCO peak(K km s-1) = 1.85423433781
+	WCO minimum (K km s-1) = 1.38433170319
+	WCO mean (K km s-1) = 1.58281689882
+	WCO standard deviation (K km s-1) = 0.145725314375
+	WCO sum (K km s-1) = 88.6377463341
+
+
+Cloud 13723:
+Pixel coordinates (2899, 20) = (l,b):(-109.9, -88.0)
+Area = 58
+	WCO peak(K km s-1) = 1.85106194019
+	WCO minimum (K km s-1) = 1.45714604855
+	WCO mean (K km s-1) = 1.6186277147
+	WCO standard deviation (K km s-1) = 0.139109894151
+	WCO sum (K km s-1) = 93.8804074526
+
+
+Cloud 13731:
+Pixel coordinates (1531, 1772) = (l,b):(26.9, 87.2)
+Area = 68
+	WCO peak(K km s-1) = 1.8508259058
+	WCO minimum (K km s-1) = 1.32475101948
+	WCO mean (K km s-1) = 1.56519116724
+	WCO standard deviation (K km s-1) = 0.161270664229
+	WCO sum (K km s-1) = 106.432999372
+
+
+Cloud 14434:
+Pixel coordinates (585, 1768) = (l,b):(121.5, 86.8)
+Area = 83
+	WCO peak(K km s-1) = 1.83378350735
+	WCO minimum (K km s-1) = 1.32864940166
+	WCO mean (K km s-1) = 1.56300821936
+	WCO standard deviation (K km s-1) = 0.145077438081
+	WCO sum (K km s-1) = 129.729682207
+
+
+Cloud 14502:
+Pixel coordinates (354, 11) = (l,b):(144.6, -88.9)
+Area = 49
+	WCO peak(K km s-1) = 1.83182621002
+	WCO minimum (K km s-1) = 1.50573205948
+	WCO mean (K km s-1) = 1.64728783831
+	WCO standard deviation (K km s-1) = 0.0937878944112
+	WCO sum (K km s-1) = 80.7171040773
+
+
+Cloud 15019:
+Pixel coordinates (2215, 26) = (l,b):(-41.5, -87.4)
+Area = 45
+	WCO peak(K km s-1) = 1.81928777695
+	WCO minimum (K km s-1) = 1.36574995518
+	WCO mean (K km s-1) = 1.54017529223
+	WCO standard deviation (K km s-1) = 0.153942869012
+	WCO sum (K km s-1) = 69.3078881502
+
+
+Cloud 15807:
+Pixel coordinates (3238, 1787) = (l,b):(-143.8, 88.7)
+Area = 120
+	WCO peak(K km s-1) = 1.8004142046
+	WCO minimum (K km s-1) = 1.327480793
+	WCO mean (K km s-1) = 1.57499706844
+	WCO standard deviation (K km s-1) = 0.149045966692
+	WC

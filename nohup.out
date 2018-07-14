@@ -1,0 +1,507 @@
+Enthought Python Distribution (free version) -- www.enthought.com
+(type 'upgrade' or see www.enthought.com/epd/upgrade to get the full EPD)
+
+This is make3FGLxml version 01.
+Plotter is MatPlotlib
+Great! Running cloud 21, at (l,b)=(171.5,-37.6)
+Making files for cloud at (171.5,-37.6)
+
+
+
+
+ Creating (l,b) = (171,-37)
+Directory already exists ... continuing
+happy, already have binned exposure map.
+
+
+
+
+Finished creating files, starting analysis
+
+
+
+
+
+
+
+
+ Analyzing (l,b) = (171,-37)
+Directory already exists ... continuing
+Done cloud (171.5,-37.6)
+
+
+
+
+
+
+Done! Tspin = 125.0
+Enthought Python Distribution (free version) -- www.enthought.com
+(type 'upgrade' or see www.enthought.com/epd/upgrade to get the full EPD)
+
+This is make3FGLxml version 01.
+Plotter is MatPlotlib
+Great! Running cloud 22, at (l,b)=(108.7,-52.2)
+Making files for cloud at (108.7,-52.2)
+
+
+
+
+ Creating (l,b) = (108,-52)
+time -p /home/abrahams/Tools-June2015/i686-pc-linux-gnu-libc2.5/bin/gtselect infile=/home/abrahams/HICO_survey/SourceSearch/all_sky_files.txt outfile=sel.fits ra=4.06644150673 dec=9.6971596338 rad=10.0 tmin=239557417.0 tmax=455067824.0 emin=250.0 emax=10000.0 zmin=0.0 zmax=90.0 evclass=128 evclsmin=0 evclsmax=10 evtype=3 convtype=-1 phasemin=0.0 phasemax=1.0 evtable="EVENTS" chatter=2 clobber=yes debug=no gui=no mode="ql"
+Done.
+real 1816.05
+user 1645.46
+sys 59.49
+time -p /home/abrahams/Tools-June2015/i686-pc-linux-gnu-libc2.5/bin/gtmktime scfile=/home/abrahams/HICO_survey/SourceSearch/AllSky_p8/SC.fits sctable="SC_DATA" filter="DATA_QUAL==1 && LAT_CONFIG==1 && ABS(ROCK_ANGLE)<52" roicut=no evfile=sel.fits evtable="EVENTS" outfile="mkt.fits" apply_filter=yes overwrite=no header_obstimes=yes tstart=0.0 tstop=0.0 gtifile="default" chatter=2 clobber=yes debug=no gui=no mode="ql"
+real 487.62
+user 469.02
+sys 1.92
+time -p /home/abrahams/Tools-June2015/i686-pc-linux-gnu-libc2.5/bin/gtbin evfile=mkt.fits scfile=/home/abrahams/HICO_survey/SourceSearch/AllSky_p8/SC.fits outfile=CMAP.fits algorithm="CMAP" ebinalg="LOG" emin=30.0 emax=200000.0 ebinfile=NONE tbinalg="LIN" tbinfile=NONE nxpix=140 nypix=140 binsz=0.1 coordsys="GAL" xref=108.7 yref=-52.2 axisrot=0.0 rafield="RA" decfield="DEC" proj="CAR" hpx_ordering_scheme="RING" hpx_order=3 hpx_ebin=yes evtable="EVENTS" sctable="SC_DATA" efield="ENERGY" tfield="TIME" chatter=2 clobber=yes debug=no gui=no mode="ql"
+This is gtbin version ScienceTools-v10r0p5-fssc-20150518
+real 12.09
+user 11.49
+sys 0.42
+time -p /home/abrahams/Tools-June2015/i686-pc-linux-gnu-libc2.5/bin/gtbin evfile=mkt.fits scfile=/home/abrahams/HICO_survey/SourceSearch/AllSky_p8/SC.fits outfile=CMAP_big.fits algorithm="CMAP" ebinalg="LOG" emin=30.0 emax=200000.0 ebinfile=NONE tbinalg="LIN" tbinfile=NONE nxpix=240 nypix=240 binsz=0.1 coordsys="GAL" xref=108.7 yref=-52.2 axisrot=0.0 rafield="RA" decfield="DEC" proj="CAR" hpx_ordering_scheme="RING" hpx_order=3 hpx_ebin=yes evtable="EVENTS" sctable="SC_DATA" efield="ENERGY" tfield="TIME" chatter=2 clobber=yes debug=no gui=no mode="ql"
+This is gtbin version ScienceTools-v10r0p5-fssc-20150518
+real 11.49
+user 11.09
+sys 0.40
+time -p /home/abrahams/Tools-June2015/i686-pc-linux-gnu-libc2.5/bin/gtbin evfile=mkt.fits scfile=/home/abrahams/HICO_survey/SourceSearch/AllSky_p8/SC.fits outfile=LC.fits algorithm="LC" ebinalg="LOG" emin=30.0 emax=200000.0 ebinfile=NONE tbinalg="LIN" tstart=239557417.0 tstop=455067824.0 dtime=3592000.0 tbinfile=NONE nxpix=240 nypix=240 binsz=0.1 coordsys="GAL" xref=108.7 yref=-52.2 axisrot=0.0 rafield="RA" decfield="DEC" proj="CAR" hpx_ordering_scheme="RING" hpx_order=3 hpx_ebin=yes evtable="EVENTS" sctable="SC_DATA" efield="ENERGY" tfield="TIME" chatter=2 clobber=yes debug=no gui=no mode="ql"
+This is gtbin version ScienceTools-v10r0p5-fssc-20150518
+real 11.41
+user 10.90
+sys 0.45
+time -p /home/abrahams/Tools-June2015/i686-pc-linux-gnu-libc2.5/bin/gtbin evfile=mkt.fits scfile=/home/abrahams/HICO_survey/SourceSearch/AllSky_p8/SC.fits outfile=CCUBE.fits algorithm="CCUBE" ebinalg="LOG" emin=250.0 emax=10000.0 enumbins=25 ebinfile=NONE tbinalg="LIN" tstart=239557417.0 tstop=455067824.0 dtime=3592000.0 tbinfile=NONE nxpix=140 nypix=140 binsz=0.1 coordsys="GAL" xref=108.7 yref=-52.2 axisrot=0.0 rafield="RA" decfield="DEC" proj="CAR" hpx_ordering_scheme="RING" hpx_order=3 hpx_ebin=yes evtable="EVENTS" sctable="SC_DATA" efield="ENERGY" tfield="TIME" chatter=2 clobber=yes debug=no gui=no mode="ql"
+This is gtbin version ScienceTools-v10r0p5-fssc-20150518
+real 11.69
+user 11.13
+sys 0.55
+Done CO maps
+Optimization terminated successfully.
+         Current function value: 194.163891
+         Iterations: 102
+         Function evaluations: 253
+time -p /home/abrahams/Tools-June2015/i686-pc-linux-gnu-libc2.5/bin/gtexpcube2 infile=/home/abrahams/HICO_survey/SourceSearch/Analysis/ltCube_10deg.fits cmap=none outfile=bexpmap.fits irfs="P8R2_SOURCE_V6" evtype="INDEF" nxpix=500 nypix=500 binsz=0.1 coordsys="GAL" xref=108.7 yref=-52.2 axisrot=0.0 proj="CAR" ebinalg="LOG" emin=250.0 emax=10000.0 enumbins=25 ebinfile="NONE" bincalc="EDGE" ignorephi=no thmax=180.0 thmin=0.0 table="EXPOSURE" chatter=2 clobber=yes debug=no mode="ql"
+Computing binned exposure map....................!
+real 141.98
+user 139.78
+sys 1.23
+Creating file and adding sources from 3FGL
+Added 38 point sources and 0 extended sources
+
+
+
+
+Finished creating files, starting analysis
+
+
+
+
+
+
+
+
+ Analyzing (l,b) = (108,-52)
+Directory already exists ... continuing
+
+Working on mode = all
+time -p /home/abrahams/Tools-June2015/i686-pc-linux-gnu-libc2.5/bin/gtsrcmaps scfile=/home/abrahams/HICO_survey/SourceSearch/AllSky_p8/SC.fits sctable="SC_DATA" expcube=/home/abrahams/HICO_survey/SourceSearch/Analysis/ltCube_10deg.fits cmap=CCUBE.fits srcmdl=MODEL_all.xml bexpmap=bexpmap.fits outfile=srcmap_all.fits irfs="P8R2_SOURCE_V6" evtype=3 convol=yes resample=yes rfactor=2 minbinsz=0.1 ptsrc=yes psfcorr=yes emapbnds=yes copyall=no chatter=2 clobber=yes debug=no gui=no mode="ql"
+Generating SourceMap for 3FGL J0001.4+2120....................!
+Generating SourceMap for 3FGL J0004.2+0843....................!
+Generating SourceMap for 3FGL J0006.2+0135....................!
+Generating SourceMap for 3FGL J0007.4+1742....................!
+Generating SourceMap for 3FGL J0008.3+1456....................!
+Generating SourceMap for 3FGL J0009.1+0630....................!
+Generating SourceMap for 3FGL J0016.3-0013....................!
+Generating SourceMap for 3FGL J0016.5+1713....................!
+Generating SourceMap for 3FGL J0017.1+1445....................!
+Generating SourceMap for 3FGL J0019.4+2021....................!
+Generating SourceMap for 3FGL J0020.9+0323....................!
+Generating SourceMap for 3FGL J0022.5+0608....................!
+Generating SourceMap for 3FGL J0023.4+0923....................!
+Generating SourceMap for 3FGL J0024.4+0350....................!
+Generating SourceMap for 3FGL J0028.8+1951....................!
+Generating SourceMap for 3FGL J0030.4+0451....................!
+Generating SourceMap for 3FGL J0030.7-0209....................!
+Generating SourceMap for 3FGL J0031.3+0724....................!
+Generating SourceMap for 3FGL J0031.6+0938....................!
+Generating SourceMap for 3FGL J0035.2+1513....................!
+Generating SourceMap for 3FGL J0037.9+1239....................!
+Generating SourceMap for 3FGL J0038.0+0012....................!
+Generating SourceMap for 3FGL J0045.7+1217....................!
+Generating SourceMap for 3FGL J0049.7+0237....................!
+Generating SourceMap for 3FGL J0100.2+0745....................!
+Generating SourceMap for 3FGL J0102.1+0943....................!
+Generating SourceMap for 3FGL J0103.7+1323....................!
+Generating SourceMap for 3FGL J2324.7+0801....................!
+Generating SourceMap for 3FGL J2327.7+0941....................!
+Generating SourceMap for 3FGL J2330.5+1104....................!
+Generating SourceMap for 3FGL J2334.1+0732....................!
+Generating SourceMap for 3FGL J2334.8+1432....................!
+Generating SourceMap for 3FGL J2338.7+0251....................!
+Generating SourceMap for 3FGL J2343.6+1551....................!
+Generating SourceMap for 3FGL J2344.4+0549....................!
+Generating SourceMap for 3FGL J2346.7+0705....................!
+Generating SourceMap for 3FGL J2352.0+1752....................!
+Generating SourceMap for 3FGL J2357.3-0150....................!
+Generating SourceMap for CO....................!
+Generating SourceMap for E(B-V)....................!
+Generating SourceMap for HI....................!
+Generating SourceMap for HI_far....................!
+Generating SourceMap for IC....................!
+Generating SourceMap for iso_P8R2_SOURCE_V6_v06....................!
+Using evtype=3 (i.e., FRONT/BACK irfs)
+real 1755.23
+user 1723.75
+sys 30.30
+Start 1!
+Observations set up, creating likelihood object
+Setting up likelihood analysis.
+Fitting first round.
+
+1st name = 3FGL J0001.4+2120
+
+Freeeeeeeze 3FGL J0001.4+2120
+Freeeeeeeze 3FGL J0004.2+0843
+Freeeeeeeze 3FGL J0006.2+0135
+Freeeeeeeze 3FGL J0007.4+1742
+Freeeeeeeze 3FGL J0008.3+1456
+Freeeeeeeze 3FGL J0009.1+0630
+Freeeeeeeze 3FGL J0016.3-0013
+Freeeeeeeze 3FGL J0016.5+1713
+Freeeeeeeze 3FGL J0017.1+1445
+Freeeeeeeze 3FGL J0019.4+2021
+Freeeeeeeze 3FGL J0020.9+0323
+Freeeeeeeze 3FGL J0022.5+0608
+Freeeeeeeze 3FGL J0023.4+0923
+Freeeeeeeze 3FGL J0024.4+0350
+Freeeeeeeze 3FGL J0028.8+1951
+Freeeeeeeze 3FGL J0030.4+0451
+Freeeeeeeze 3FGL J0030.7-0209
+Freeeeeeeze 3FGL J0031.3+0724
+Freeeeeeeze 3FGL J0031.6+0938
+Freeeeeeeze 3FGL J0035.2+1513
+Freeeeeeeze 3FGL J0037.9+1239
+Freeeeeeeze 3FGL J0038.0+0012
+Freeeeeeeze 3FGL J0045.7+1217
+Freeeeeeeze 3FGL J0049.7+0237
+Freeeeeeeze 3FGL J0100.2+0745
+Freeeeeeeze 3FGL J0102.1+0943
+Freeeeeeeze 3FGL J0103.7+1323
+Freeeeeeeze 3FGL J2324.7+0801
+Freeeeeeeze 3FGL J2327.7+0941
+Freeeeeeeze 3FGL J2330.5+1104
+Freeeeeeeze 3FGL J2334.1+0732
+Freeeeeeeze 3FGL J2334.8+1432
+Freeeeeeeze 3FGL J2338.7+0251
+Freeeeeeeze 3FGL J2343.6+1551
+Freeeeeeeze 3FGL J2344.4+0549
+Freeeeeeeze 3FGL J2346.7+0705
+Freeeeeeeze 3FGL J2352.0+1752
+Freeeeeeeze 3FGL J2357.3-0150
+Fit quality 3	
+Delete weak diffuse sources, freeze rest, thaw 'good' point sources.
+Frozen CO!
+Frozen E(B-V)!
+Frozen HI!
+Frozen HI_far!
+Frozen IC!
+Frozen Sources !! :). Fit point sources.
+
+3FGL J0001.4+2120 frozen.
+3FGL J0004.2+0843 frozen.
+3FGL J0006.2+0135 frozen.
+3FGL J0007.4+1742 frozen.
+3FGL J0008.3+1456 frozen.
+3FGL J0009.1+0630 frozen.
+3FGL J0016.3-0013 frozen.
+3FGL J0016.5+1713 frozen.
+3FGL J0017.1+1445 frozen.
+3FGL J0019.4+2021 frozen.
+3FGL J0020.9+0323 frozen.
+3FGL J0022.5+0608 frozen.
+3FGL J0023.4+0923 frozen.
+3FGL J0024.4+0350 frozen.
+3FGL J0028.8+1951 frozen.
+3FGL J0030.4+0451 frozen.
+3FGL J0030.7-0209 frozen.
+3FGL J0031.3+0724 frozen.
+3FGL J0031.6+0938 frozen.
+3FGL J0035.2+1513 frozen.
+3FGL J0037.9+1239 frozen.
+3FGL J0038.0+0012 frozen.
+3FGL J0045.7+1217 frozen.
+3FGL J0049.7+0237 frozen.
+3FGL J0100.2+0745 frozen.
+3FGL J0102.1+0943 frozen.
+3FGL J0103.7+1323 frozen.
+3FGL J2324.7+0801 frozen.
+3FGL J2327.7+0941 frozen.
+3FGL J2330.5+1104 frozen.
+3FGL J2334.1+0732 frozen.
+3FGL J2334.8+1432 frozen.
+3FGL J2338.7+0251 frozen.
+3FGL J2343.6+1551 frozen.
+3FGL J2344.4+0549 frozen.
+3FGL J2346.7+0705 frozen.
+3FGL J2352.0+1752 frozen.
+3FGL J2357.3-0150 frozen.
+Keeping iso_P8R2_SOURCE_V6_v06
+
+Starting 1nd fit of point sources with Minuit
+Fit Quality = 3
+
+Deleting 3FGL J0001.4+2120
+Deleting 3FGL J0004.2+0843
+Deleting 3FGL J0006.2+0135
+Deleting 3FGL J0007.4+1742
+Deleting 3FGL J0016.5+1713
+Deleting 3FGL J0019.4+2021
+Deleting 3FGL J0028.8+1951
+Deleting 3FGL J0030.7-0209
+Deleting 3FGL J0031.6+0938
+Deleting 3FGL J0038.0+0012
+Deleting 3FGL J0049.7+0237
+Deleting 3FGL J0102.1+0943
+Deleting 3FGL J0103.7+1323
+Deleting 3FGL J2324.7+0801
+Deleting 3FGL J2327.7+0941
+Deleting 3FGL J2330.5+1104
+Deleting 3FGL J2334.1+0732
+Deleting 3FGL J2334.8+1432
+Deleting 3FGL J2338.7+0251
+Deleting 3FGL J2343.6+1551
+Deleting 3FGL J2344.4+0549
+Deleting 3FGL J2352.0+1752
+Deleting 3FGL J2357.3-0150
+Freezing point sources, unfreezing diffuse
+
+
+2nd diffuse source fitting
+
+
+Fit quality 3	
+sources fit, finding new sources.
+
+-log(likelihood) = 233106.860502
+Done first round.
+Writing likelihoods.
+
+Weak diffuse sources gone, writing results
+.
+time -p /home/abrahams/Tools-June2015/i686-pc-linux-gnu-libc2.5/bin/gtmodel srcmaps=srcmap_all.fits srcmdl=mdl1_all.xml outfile=mdlmap1_all.fits irfs="P8R2_SOURCE_V6" evtype="INDEF" expcube=/home/abrahams/HICO_survey/SourceSearch/Analysis/ltCube_10deg.fits bexpmap=bexpmap.fits convol=yes resample=yes rfactor=2 outtype="CMAP" psfcorr=yes edisp=no chatter=2 clobber=yes debug=no gui=no mode="ql"
+real 58.88
+user 45.59
+sys 12.31
+Keeping iso_P8R2_SOURCE_V6_v06
+
+time -p /home/abrahams/Tools-June2015/i686-pc-linux-gnu-libc2.5/bin/gtmodel srcmaps=srcmap_all.fits srcmdl=mdl2_all.xml outfile=mdlmap2_all.fits irfs="P8R2_SOURCE_V6" evtype="INDEF" expcube=/home/abrahams/HICO_survey/SourceSearch/Analysis/ltCube_10deg.fits bexpmap=bexpmap.fits convol=yes resample=yes rfactor=2 outtype="CMAP" psfcorr=yes edisp=no chatter=2 clobber=yes debug=no gui=no mode="ql"
+real 57.68
+user 45.43
+sys 10.85
+
+Working on mode = nocodg
+Yes NewMinuit fit.
+In ['LogLike.dat', 'CMAP_big.fits', 'mdl1_all.xml', 'CCUBE.fits', 'Covariance.txt', 'ROI_MODEL.reg', 'Properties.txt', 'sel.fits', 'LC.fits', 'mdlmap1_all.fits', 'mdlmap2_all.fits', 'TS.txt', 'CountSpec_all.fits', 'Config.txt', 'CMAP.fits', 'Freezing.dat', 'Logging.txt', 'mdl2_all.xml', 'srcmap_all.fits', 'bexpmap.fits', 'MODEL.xml', 'MODEL_all.xml', 'mkt.fits', 'COmake.txt']
+Start 1!
+Observations set up, creating likelihood object
+Setting up likelihood analysis.
+mode =/= 'all', fitting...
+Writing likelihoods.
+
+Weak diffuse sources gone, writing results
+.
+time -p /home/abrahams/Tools-June2015/i686-pc-linux-gnu-libc2.5/bin/gtmodel srcmaps=nocodg/srcmap_nocodg.fits srcmdl=nocodg/mdl1_nocodg.xml outfile=nocodg/mdlmap1_nocodg.fits irfs="P8R2_SOURCE_V6" evtype="INDEF" expcube=/home/abrahams/HICO_survey/SourceSearch/Analysis/ltCube_10deg.fits bexpmap=bexpmap.fits convol=yes resample=yes rfactor=2 outtype="CMAP" psfcorr=yes edisp=no chatter=2 clobber=yes debug=no gui=no mode="ql"
+real 57.39
+user 43.84
+sys 12.12
+Keeping iso_P8R2_SOURCE_V6_v06
+
+time -p /home/abrahams/Tools-June2015/i686-pc-linux-gnu-libc2.5/bin/gtmodel srcmaps=nocodg/srcmap_nocodg.fits srcmdl=nocodg/mdl2_nocodg.xml outfile=nocodg/mdlmap2_nocodg.fits irfs="P8R2_SOURCE_V6" evtype="INDEF" expcube=/home/abrahams/HICO_survey/SourceSearch/Analysis/ltCube_10deg.fits bexpmap=bexpmap.fits convol=yes resample=yes rfactor=2 outtype="CMAP" psfcorr=yes edisp=no chatter=2 clobber=yes debug=no gui=no mode="ql"
+real 58.27
+user 42.62
+sys 13.74
+
+Working on mode = noco
+Yes NewMinuit fit.
+In ['LogLike.dat', 'CMAP_big.fits', 'mdl1_all.xml', 'CCUBE.fits', 'Covariance.txt', 'ROI_MODEL.reg', 'Properties.txt', 'sel.fits', 'LC.fits', 'mdlmap1_all.fits', 'mdlmap2_all.fits', 'TS.txt', 'CountSpec_all.fits', 'Config.txt', 'CMAP.fits', 'Freezing.dat', 'Logging.txt', 'mdl2_all.xml', 'srcmap_all.fits', 'nocodg', 'bexpmap.fits', 'MODEL.xml', 'MODEL_all.xml', 'mkt.fits', 'COmake.txt']
+Start 1!
+Observations set up, creating likelihood object
+Setting up likelihood analysis.
+mode =/= 'all', fitting...
+Writing likelihoods.
+
+Weak diffuse sources gone, writing results
+.
+time -p /home/abrahams/Tools-June2015/i686-pc-linux-gnu-libc2.5/bin/gtmodel srcmaps=noco/srcmap_noco.fits srcmdl=noco/mdl1_noco.xml outfile=noco/mdlmap1_noco.fits irfs="P8R2_SOURCE_V6" evtype="INDEF" expcube=/home/abrahams/HICO_survey/SourceSearch/Analysis/ltCube_10deg.fits bexpmap=bexpmap.fits convol=yes resample=yes rfactor=2 outtype="CMAP" psfcorr=yes edisp=no chatter=2 clobber=yes debug=no gui=no mode="ql"
+real 58.20
+user 44.79
+sys 12.25
+Keeping iso_P8R2_SOURCE_V6_v06
+
+time -p /home/abrahams/Tools-June2015/i686-pc-linux-gnu-libc2.5/bin/gtmodel srcmaps=noco/srcmap_noco.fits srcmdl=noco/mdl2_noco.xml outfile=noco/mdlmap2_noco.fits irfs="P8R2_SOURCE_V6" evtype="INDEF" expcube=/home/abrahams/HICO_survey/SourceSearch/Analysis/ltCube_10deg.fits bexpmap=bexpmap.fits convol=yes resample=yes rfactor=2 outtype="CMAP" psfcorr=yes edisp=no chatter=2 clobber=yes debug=no gui=no mode="ql"
+real 58.45
+user 44.33
+sys 11.97
+
+Working on mode = nodg
+Yes NewMinuit fit.
+In ['LogLike.dat', 'CMAP_big.fits', 'mdl1_all.xml', 'CCUBE.fits', 'Covariance.txt', 'ROI_MODEL.reg', 'Properties.txt', 'sel.fits', 'LC.fits', 'mdlmap1_all.fits', 'mdlmap2_all.fits', 'TS.txt', 'CountSpec_all.fits', 'Config.txt', 'CMAP.fits', 'Freezing.dat', 'Logging.txt', 'mdl2_all.xml', 'srcmap_all.fits', 'nocodg', 'noco', 'bexpmap.fits', 'MODEL.xml', 'MODEL_all.xml', 'mkt.fits', 'COmake.txt']
+Start 1!
+Observations set up, creating likelihood object
+Setting up likelihood analysis.
+mode =/= 'all', fitting...
+Writing likelihoods.
+
+Weak diffuse sources gone, writing results
+.
+time -p /home/abrahams/Tools-June2015/i686-pc-linux-gnu-libc2.5/bin/gtmodel srcmaps=nodg/srcmap_nodg.fits srcmdl=nodg/mdl1_nodg.xml outfile=nodg/mdlmap1_nodg.fits iGenerating SourceMap for Add_0....................!
+Generating SourceMap for Add_0....................!
+Generating SourceMap for Add_0....................!
+Generating SourceMap for Add_0....................!
+Generating SourceMap for Add_0....................!
+Generating SourceMap for Add_0....................!
+Generating SourceMap for Add_0....................!
+Generating SourceMap for Add_0....................!
+Generating SourceMap for Add_0....................!
+rfs="P8R2_SOURCE_V6" evtype="INDEF" expcube=/home/abrahams/HICO_survey/SourceSearch/Analysis/ltCube_10deg.fits bexpmap=bexpmap.fits convol=yes resample=yes rfactor=2 outtype="CMAP" psfcorr=yes edisp=no chatter=2 clobber=yes debug=no gui=no mode="ql"
+real 60.62
+user 45.25
+sys 12.53
+Keeping iso_P8R2_SOURCE_V6_v06
+
+time -p /home/abrahams/Tools-June2015/i686-pc-linux-gnu-libc2.5/bin/gtmodel srcmaps=nodg/srcmap_nodg.fits srcmdl=nodg/mdl2_nodg.xml outfile=nodg/mdlmap2_nodg.fits irfs="P8R2_SOURCE_V6" evtype="INDEF" expcube=/home/abrahams/HICO_survey/SourceSearch/Analysis/ltCube_10deg.fits bexpmap=bexpmap.fits convol=yes resample=yes rfactor=2 outtype="CMAP" psfcorr=yes edisp=no chatter=2 clobber=yes debug=no gui=no mode="ql"
+real 59.66
+user 45.07
+sys 12.75
+
+Working on mode = ptsrc
+Yes NewMinuit fit.
+In ['LogLike.dat', 'CMAP_big.fits', 'mdl1_all.xml', 'CCUBE.fits', 'Covariance.txt', 'nodg', 'ROI_MODEL.reg', 'Properties.txt', 'sel.fits', 'LC.fits', 'mdlmap1_all.fits', 'mdlmap2_all.fits', 'TS.txt', 'CountSpec_all.fits', 'Config.txt', 'CMAP.fits', 'Freezing.dat', 'Logging.txt', 'mdl2_all.xml', 'srcmap_all.fits', 'nocodg', 'noco', 'bexpmap.fits', 'MODEL.xml', 'MODEL_all.xml', 'mkt.fits', 'COmake.txt']
+Start 1!
+Observations set up, creating likelihood object
+Setting up likelihood analysis.
+mode =/= 'all', fitting...
+Writing likelihoods.
+
+Weak diffuse sources gone, writing results
+.
+time -p /home/abrahams/Tools-June2015/i686-pc-linux-gnu-libc2.5/bin/gtmodel srcmaps=ptsrc/srcmap_ptsrc.fits srcmdl=ptsrc/mdl1_ptsrc.xml outfile=ptsrc/mdlmap1_ptsrc.fits irfs="P8R2_SOURCE_V6" evtype="INDEF" expcube=/home/abrahams/HICO_survey/SourceSearch/Analysis/ltCube_10deg.fits bexpmap=bexpmap.fits convol=yes resample=yes rfactor=2 outtype="CMAP" psfcorr=yes edisp=no chatter=2 clobber=yes debug=no gui=no mode="ql"
+Generating SourceMap for Add_0....................!
+real 61.21
+user 47.96
+sys 12.29
+Keeping iso_P8R2_SOURCE_V6_v06
+
+time -p /home/abrahams/Tools-June2015/i686-pc-linux-gnu-libc2.5/bin/gtmodel srcmaps=ptsrc/srcmap_ptsrc.fits srcmdl=ptsrc/mdl2_ptsrc.xml outfile=ptsrc/mdlmap2_ptsrc.fits irfs="P8R2_SOURCE_V6" evtype="INDEF" expcube=/home/abrahams/HICO_survey/SourceSearch/Analysis/ltCube_10deg.fits bexpmap=bexpmap.fits convol=yes resample=yes rfactor=2 outtype="CMAP" psfcorr=yes edisp=no chatter=2 clobber=yes debug=no gui=no mode="ql"
+Generating SourceMap for Add_0....................!
+real 66.22
+user 53.06
+sys 12.00
+
+Working on mode = all_plus
+Yes NewMinuit fit.
+In ['ptsrc', 'LogLike.dat', 'CMAP_big.fits', 'mdl1_all.xml', 'CCUBE.fits', 'Covariance.txt', 'nodg', 'ROI_MODEL.reg', 'Properties.txt', 'sel.fits', 'LC.fits', 'mdlmap1_all.fits', 'mdlmap2_all.fits', 'TS.txt', 'CountSpec_all.fits', 'Config.txt', 'CMAP.fits', 'Freezing.dat', 'Logging.txt', 'mdl2_all.xml', 'srcmap_all.fits', 'nocodg', 'noco', 'bexpmap.fits', 'MODEL.xml', 'MODEL_all.xml', 'mkt.fits', 'COmake.txt']
+Start 1!
+Observations set up, creating likelihood object
+Setting up likelihood analysis.
+mode =/= 'all', fitting...
+Writing likelihoods.
+
+Weak diffuse sources gone, writing results
+.
+time -p /home/abrahams/Tools-June2015/i686-pc-linux-gnu-libc2.5/bin/gtmodel srcmaps=all_plus/srcmap_all_plus.fits srcmdl=all_plus/mdl1_all_plus.xml outfile=all_plus/mdlmap1_all_plus.fits irfs="P8R2_SOURCE_V6" evtype="INDEF" expcube=/home/abrahams/HICO_survey/SourceSearch/Analysis/ltCube_10deg.fits bexpmap=bexpmap.fits convol=yes resample=yes rfactor=2 outtype="CMAP" psfcorr=yes edisp=no chatter=2 clobber=yes debug=no gui=no mode="ql"
+Generating SourceMap for Add_0....................!
+real 63.00
+user 49.04
+sys 12.61
+Keeping iso_P8R2_SOURCE_V6_v06
+
+time -p /home/abrahams/Tools-June2015/i686-pc-linux-gnu-libc2.5/bin/gtmodel srcmaps=all_plus/srcmap_all_plus.fits srcmdl=all_plus/mdl2_all_plus.xml outfile=all_plus/mdlmap2_all_plus.fits irfs="P8R2_SOURCE_V6" evtype="INDEF" expcube=/home/abrahams/HICO_survey/SourceSearch/Analysis/ltCube_10deg.fits bexpmap=bexpmap.fits convol=yes resample=yes rfactor=2 outtype="CMAP" psfcorr=yes edisp=no chatter=2 clobber=yes debug=no gui=no mode="ql"
+Generating SourceMap for AddGenerating SourceMap for Add_0....................!
+_0....................!
+real 69.31
+user 55.29
+sys 13.32
+Done cloud (108.7,-52.2)
+
+
+
+
+
+
+Done! Tspin = 125.0
+Enthought Python Distribution (free version) -- www.enthought.com
+(type 'upgrade' or see www.enthought.com/epd/upgrade to get the full EPD)
+
+This is make3FGLxml version 01.
+Plotter is MatPlotlib
+Great! Running cloud 23, at (l,b)=(103.2,-26.3)
+Making files for cloud at (103.2,-26.3)
+
+
+
+
+ Creating (l,b) = (103,-26)
+Directory already exists ... continuing
+happy, already have binned exposure map.
+
+
+
+
+Finished creating files, starting analysis
+
+
+
+
+
+
+
+
+ Analyzing (l,b) = (103,-26)
+Directory already exists ... continuing
+Done cloud (103.2,-26.3)
+
+
+
+
+
+
+Done! Tspin = 125.0
+Enthought Python Distribution (free version) -- www.enthought.com
+(type 'upgrade' or see www.enthought.com/epd/upgrade to get the full EPD)
+
+This is make3FGLxml version 01.
+Plotter is MatPlotlib
+Great! Running cloud 24, at (l,b)=(105.9,-38.5)
+Making files for cloud at (105.9,-38.5)
+
+
+
+
+ Creating (l,b) = (105,-38)
+Directory already exists ... continuing
+happy, already have binned exposure map.
+
+
+
+
+Finished creating files, starting analysis
+
+
+
+
+
+
+
+
+ Analyzing (l,b) = (105,-38)
+Directory already exists ... continuing
+Done cloud (105.9,-38.5)
+
+
+
+
+
+
+Done! Tspin = 125.0

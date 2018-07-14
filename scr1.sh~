@@ -1,0 +1,11 @@
+#!/bin/bash
+
+let CMIN=31
+let CMAX=36
+
+# We will run the python thing from cloud CMIN to cloud CMAX
+COUNTER=$CMIN
+while [ $COUNTER -le $CMAX ]; do
+	ipython tst.py $COUNTER
+	let COUNTER=COUNTER+1
+done

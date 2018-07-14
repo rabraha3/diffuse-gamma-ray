@@ -1,0 +1,161 @@
+
+import numpy as np
+from Type_count import Cloud
+import matplotlib.pyplot as plt
+import os, pyfits
+
+
+def CODGratio(glon,glat):
+	os.chdir('/home/abrahams/HICO_survey/SourceSearch/l%sb%s/'%(int(glon),int(glat)))
+	co = pyfits.open('CO_temp.fits')
+	dg = pyfits.open('Ebv_thick.fits')
+	filt = (co[0].data>0) & (dg[0].data>0)
+	return (dg[0].data[filt]/co[0].data[filt]).mean()
+
+
+
+fl_d = 'CldsDist_lal.dat'
+#fl_d = 'Clds_Distance.txt'
+f = open(fl_d,'r')
+g = open('../CldNum.txt','r')
+h = open('../Clds_Emissivity.txt','r')
+
+datDist = f.readlines()
+datCoor = g.readlines()
+datEmis = h.readlines()
+f.close()
+g.close()
+h.close()
+
+HI = np.array([])
+HI_= np.array([])
+CO = np.array([])
+CO_= np.array([])
+dist = np.array([])
+dist_= np.array([])
+DG = np.array([])
+DG_= np.array([])
+glon = np.array([])
+glat = np.array([])
+temp_ratio = np.array([])
+## Right now, HI_, etc. are emissivity TS values, which we do not care about.
+for i in range( len(datDist) ):
+	## Coordinates ##
+	glon = np.append(glon, float( datCoor[i].split('(')[1].split(',')[0] ))
+	glat = np.append(glat, float( datCoor[i].split(')')[0].split(',')[1] ))
+	if ( fl_d == 'CldsDist_lal.dat' ):
+	## Distance -- Lallement ##
+		if ( len(datDist[i].split('     ')) != 6 ):
+			dist = np.append(dist, 0 )
+		else:
+			dista = float(datDist[i].split('     ')[3])
+			distb = float(datDist[i].split('     ')[4])
+			if ( distb == 0 ):
+				dist = np.append(dist, dista )
+			else:
+				dist = np.append(dist, 0.5*(dista+distb) )
+	elif ( fl_d == 'Clds_Distance.txt' ):
+	## Distance -- Schlafly ##
+		if ( len(datDist[i].split('\t')) == 3 ):
+			dist = np.append(dist,0)
+			dist_= np.append(dist_,0)
+		else:
+			dist = np.append(dist, float( datDist[i].split('\t')[2] ))
+			dist_= np.append(dist_,float( datDist[i].split('\t')[3] ))
+
+	## Emissivity ##
+	line = datEmis[i].split('\t')
+	temp_ratio = np.append( temp_ratio, CODGratio(glon[-1],glat[-1]) )
+#	cld = Cloud(i)
+	if ( len(line) <= 1 ):
+		HI = np.append( HI, 0 )
+		HI_ = np.append(HI_,0 )
+		CO = np.append( CO, 0 )
+		CO_ = np.append(CO_,0 )
+		DG = np.append( DG, 0 )
+		DG_ = np.append(DG_,0 )
+		continue
+	else:
+		emissivity = line[2].split(', ')
+		emiss_err = line[3].split(', ')
+		for m in range(len(emissivity)):
+			if ( ('HI' in emissivity[m]) and ('HI_far' not in emissivity[m]) ):
+				HI = np.append( HI, float(emissivity[m].split(': ')[1][1:-1]) )
+				HI_ = np.append(HI_, float(emiss_err[m].split(': ')[1][1:-1]) )
+				continue
+			elif ( ('CO' in emissivity[m]) ):
+				CO = np.append( CO, float(emissivity[m].split(': ')[1][1:-1]) )
+				CO_ = np.append(CO_, float(emiss_err[m].split(': ')[1][1:-1]) )
+				continue
+			elif ( 'E(B-V)' in emissivity[m] ):
+				DG = np.append( DG, float(emissivity[m].split(': ')[1][1:-1]) )
+				DG_ = np.append(DG_, float(emiss_err[m].split(': ')[1][1:-1]) )
+				continue
+
+sc = datEmis[1].split('\t')[-1].split(', ')
+for m in range( len(sc) ):
+	if ( ('HI' in sc[m]) and ('HI_far' not in sc[m]) ):
+		HI_scale = float(sc[m].split(': ')[1])
+	elif ( ('CO' in sc[m]) ):
+		CO_scale = float(sc[m].split(': ')[1])
+	elif ( 'E(B-V)' in sc[m] ):
+		DG_scale = float(sc[m].split(': ')[1][:-2])
+
+
+HI *= HI_scale
+HI_*= HI_scale
+CO *= CO_scale
+CO_*= CO_scale
+DG *= DG_scale
+DG_*= DG_scale
+
+x = dist * np.cos(np.deg2rad(glat)) * np.cos(np.deg2rad(glon))
+y = dist * np.cos(np.deg2rad(glat)) * np.sin(np.deg2rad(glon))
+z = dist * np.sin(np.deg2rad(glat))
+
+
+x_gc = 8.33-(x/1000.)		## Because l=0 means towards Galactic center, means SMALLER R
+x *= -1
+y *= -1
+
+
+
+xcop = CO/(2*HI)
+xav  = DG/(2*HI)
+xco = xcop + xav*temp_ratio
+
+
+
+
+plt.rcParams.update({'font.size':20})
+f,((ax1,ax2, ax3)) = plt.subplots(1,3,sharex='col',sharey='row',figsize=(16,5))
+
+
+ax1.scatter( x,y, marker='o', c='black')
+ax1.scatter(0,0, marker='s', c='red')
+ax1.set_xlim([-350,350])
+ax1.set_ylim([-350,350])
+ax1.set_yticks([-300,-150,0,150,300])
+ax1.set_xlabel(r'$\ell=0^\circ\longleftarrow$ X (pc) $\longrightarrow\ell=180^\circ$')
+ax1.set_ylabel(r'$\ell=90^\circ\longleftarrow$ Y (pc) $\longrightarrow\ell=270^\circ$')
+
+
+ax2.scatter(x,z, marker='o',c='black')
+ax2.scatter(0,0,marker='s',c='red')
+ax2.set_xlim([-350,350])
+ax2.set_xticks([-300,-150,0,150,300])
+ax2.set_ylim([-350,350])
+ax2.set_xlabel(r'$\ell=0^\circ\longleftarrow$ X (pc) $\longrightarrow\ell=180^\circ$')
+ax2.set_ylabel(r'Z (pc)')
+
+
+ax3.scatter(y,z, marker='o',c='black')
+ax3.scatter(0,0,marker='s',c='red')
+ax3.set_xlim([-350,350])
+ax3.set_xticks([-300,-150,0,150,300])
+ax3.set_ylim([-350,350])
+ax3.set_xlabel(r'$\ell=90^\circ\longleftarrow$ Y (pc) $\longrightarrow\ell=270^\circ$')
+ax3.set_ylabel(r'Z (pc)')
+
+plt.tight_layout()
+#plt.savefig('/home/abrahams/HICO_Survey/SourceSearch/Analysis/Distance/Distances.png')
